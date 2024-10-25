@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="001" tvg-id="Colplay1" tvg-logo="" group-title="Colplay1", CHANNEL 1 - Coldplay
+rtsp://172.22.0.50:1935/vod/coldplay1.mp4
+
+#EXTINF:-1 tvg-name="002" tvg-id="Cafe Quijano" tvg-logo="" group-title="Colplay1", CHANNEL 2 - Coldplay
+rtsp://172.22.0.50:1935/vod/coldplay2.mp4
+
+#EXTINF:-1 tvg-name="003" tvg-id="The Weeknd" tvg-logo="" group-title="Colplay1", CHANNEL 3 - Coldplay
+rtsp://172.22.0.50:1935/vod/colplay3.mp4
+
+#EXTINF:-1 tvg-name="004" tvg-id="The Weeknd" tvg-logo="" group-title="Colplay1", CHANNEL 4 - Coldplay
+rtsp://172.22.0.50:1935/vod/coldplay4.mp4
