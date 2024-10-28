@@ -512,7 +512,7 @@ services:
       default:
         ipv4_address: ${GRAFANA_IP}
   portainer:
-    image: portainer/portainer-ce:2.21.3
+    image: portainer/portainer-ce:2.21.4
     hostname: portainer
     container_name: portainer
     restart: always
