@@ -5,3 +5,6 @@
 	path = /home/lfarizav/docker_open5gs/kamailio
 	url = https://github.com/kamailio/kamailio.git
 	branch = 5.8
+[submodule "/home/lfarizav/docker_open5gs/pysim"]
+	path = /home/lfarizav/docker_open5gs/pysim
+	url = https://gitea.osmocom.org/sim-card/pysim.git
