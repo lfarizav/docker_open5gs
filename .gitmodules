@@ -1,0 +1,3 @@
+[submodule "/home/lfarizav/docker_open5gs/CoIMS_Wiki"]
+	path = /home/lfarizav/docker_open5gs/CoIMS_Wiki
+	url = https://github.com/herlesupreeth/CoIMS_Wiki
