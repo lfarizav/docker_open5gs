@@ -1,3 +1,7 @@
 [submodule "/home/lfarizav/docker_open5gs/CoIMS_Wiki"]
 	path = /home/lfarizav/docker_open5gs/CoIMS_Wiki
 	url = https://github.com/herlesupreeth/CoIMS_Wiki
+[submodule "/home/lfarizav/docker_open5gs/kamailio"]
+	path = /home/lfarizav/docker_open5gs/kamailio
+	url = https://github.com/kamailio/kamailio.git
+	branch = 5.8
