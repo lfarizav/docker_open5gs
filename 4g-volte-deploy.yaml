@@ -511,6 +511,39 @@ services:
     networks:
       default:
         ipv4_address: ${GRAFANA_IP}
+  loki:
+    image: grafana/loki:latest
+    hostname: loki
+    container_name: loki
+    env_file:
+      - .env
+    restart: unless-stopped
+    volumes:
+    - loki-data:/loki
+    expose:
+      - "3100/tcp"
+    ports:
+      - "3100:3100"
+    command: -config.file=/etc/loki/local-config.yaml
+    networks:
+      default:
+        ipv4_address: ${LOKI_IP}  
+
+  promtail:
+    image: grafana/promtail:latest
+    hostname: promtail
+    container_name: promtail
+    env_file:
+      - .env
+    restart: unless-stopped
+    volumes:
+    - ./log/:/home/lfarizav/docker_open5gs/log/:ro
+    - ./monitor/config.yml:/etc/promtail/config.yml
+    - promtail-data:/tmp
+    command: -config.file=/etc/promtail/config.yml
+    networks:
+      default:
+        ipv4_address: ${PROMTAIL_IP}  
   portainer:
     image: portainer/portainer-ce:2.21.4
     hostname: portainer
@@ -536,3 +569,6 @@ networks:
 volumes:
   mongodbdata: {}
   dbdata: {}
+  grafana-data: {}
+  loki-data: {}
+  promtail-data: {}

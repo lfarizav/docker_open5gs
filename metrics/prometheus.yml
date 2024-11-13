@@ -20,3 +20,9 @@ scrape_configs:
   - job_name: 'mme'
     static_configs:
       - targets: ['MME_IP:9091']
+  - job_name: 'srs_enb'
+    static_configs:
+      - targets: ['SRS_ENB_IP:9091']
+  - job_name: 'oai_enb'
+    static_configs:
+      - targets: ['OAI_ENB_IP:9091']

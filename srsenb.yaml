@@ -23,6 +23,7 @@ services:
     expose:
       - "36412/sctp"
       - "2152/udp"
+      - "9091/tcp"
     networks:
       default:
         ipv4_address: ${SRS_ENB_IP}
