@@ -537,7 +537,8 @@ services:
       - .env
     restart: unless-stopped
     volumes:
-    - ./log/:/home/lfarizav/docker_open5gs/log/:ro
+    - ./log/:/mnt/log/:ro
+    - ./srslte/:/mnt/srslte/:ro
     - ./monitor/config.yml:/etc/promtail/config.yml
     - promtail-data:/tmp
     command: -config.file=/etc/promtail/config.yml

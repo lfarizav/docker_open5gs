@@ -16,4 +16,12 @@ scrape_configs:
       - localhost
     labels:
       job: open5gs
-      __path__: /home/lfarizav/docker_open5gs/log/*log
+      __path__: /mnt/log/*log
+ # Logs for srsenb
+- job_name: srsenb
+  static_configs:
+  - targets:
+      - localhost
+    labels:
+      job: srsenb
+      __path__: /mnt/srslte/*.{csv,json}
