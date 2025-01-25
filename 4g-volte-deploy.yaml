@@ -508,6 +508,11 @@ services:
       - "3000/tcp"
     ports:
       - "3000:3000/tcp"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_AUTO_LOGIN=true
+      - GF_AUTH_ANONYMOUS_ORG_ROLE=Admin
     networks:
       default:
         ipv4_address: ${GRAFANA_IP}
