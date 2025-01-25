@@ -1668,4 +1668,564 @@
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach"
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825800.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825801.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825802.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825803.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825804.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825805.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825806.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825807.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825808.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825809.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825810.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825811.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825812.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825813.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825814.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825815.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825816.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825817.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825818.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825819.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825820.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825821.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825822.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825823.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825824.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825825.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825826.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825827.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825828.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825829.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825830.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825831.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825832.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825833.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825834.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825835.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  ]
+}
+{
+  "type": "metrics",
+  "timestamp": 1737825836.193,
+  "cell_list": [
+    {
+      "cell_container": {
+        "carrier_id": 0,
+        "pci": 1,
+        "nof_rach": 0,
+        "ue_list": [
+        ]
+      }
+    }
+  
