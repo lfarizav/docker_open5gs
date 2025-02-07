@@ -1161,7 +1161,7 @@ Options:
 -I 
    Install prerequisites
 -volte
-   Install and build images/containers ffor volte
+   Install and build images/containers for volte
 -uhd 
    Install UHD for usrp at host
 -hss   Install user at the hss container
