@@ -43,7 +43,7 @@ function install_dependencies() {
 
     # Update package list and install Docker components
     sudo apt-get update -y
-    sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin docker-compose git
+    sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin git
 
     # Add user to Docker group
     sudo groupadd docker || true  # Avoid error if the group already exists
@@ -51,7 +51,7 @@ function install_dependencies() {
 
     # Display Docker versions
     docker --version
-    docker-compose --version
+    docker compose --version
     sudo apt install net-tools plocate traceroute git python3 python3-pip wireshark xterm -y
     sudo usermod -aG wireshark $(whoami)
     echo "Docker installation complete. Please log out and log back in to apply group changes for Docker access without sudo."
@@ -85,15 +85,15 @@ function build_images() {
     echo "Building srsRAN_4G eNB + srsUE image..."
     cd "$HOME/docker_open5gs/srslte"
     docker build --no-cache --force-rm -t "$SRSLTE_IMAGE" .
-    
+
     # Build docker images for srsRAN_Project gNB
-    #cd "$HOME/docker_open5gs/srsran"
-    #docker build --no-cache --force-rm -t "$SRSRAN_IMAGE" .
-    
+    cd "$HOME/docker_open5gs/srsran"
+    docker build --no-cache --force-rm -t "$SRSRAN_IMAGE" .
+
     # Build and deploy containers
-    echo "Building and deploying containers with docker-compose..."
+    echo "Building and deploying containers with docker compose..."
     cd "$HOME/docker_open5gs"
-    docker-compose -f wowza.yaml build --no-cache
+    docker compose -f wowza.yaml build --no-cache
 
     echo "All Docker images built and containers deployed successfully."
 }
@@ -1224,12 +1224,12 @@ function main() {
 		sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 		sudo apt-get update
 		# Install docker using apt
-		sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin docker-compose git -y
+		sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker compose-plugin docker compose git -y
 		sudo groupadd docker
 		sudo usermod -aG docker $USER
 		newgrp docker
 		docker --version
-		docker-compose --version
+		docker compose --version
             exit 1;;
        -uhd | --uhd)
 		sudo apt-get install libuhd-dev uhd-host
