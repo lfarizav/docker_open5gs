@@ -1,5 +1,5 @@
 # docker_open5gs
-Quite contrary to the name of the repository, this repository contains docker files to deploy an Over-The-Air (OTA) or RF simulated 4G/5G network using following projects:
+Quite contrary to the name of the repository, this repository contains docker files to deploy an Over-The-Air (OTA) network using following projects:
 - Core Network (4G/5G) - open5gs - https://github.com/open5gs/open5gs
 - IMS (Only 4G supported i.e. VoLTE) - kamailio
 - IMS HSS - https://github.com/nickvsnetworking/pyhss
@@ -12,7 +12,7 @@ Quite contrary to the name of the repository, this repository contains docker fi
 
 Docker host machine
 
-- Ubuntu 20.04 or 22.04
+- Ubuntu 20.04 / 22.04 / 24.04
 
 Over-The-Air setups: 
 
@@ -20,10 +20,9 @@ Over-The-Air setups:
 - srsRAN eNB using LimeSDR Mini v1.3
 - srsRAN eNB using LimeSDR-USB
 
-RF simulated setups:
+RF emulated setups:
 
- - srsRAN (gNB + UE) simulation over ZMQ
- - UERANSIM (gNB + UE) simulator
+ - open5GS (EPC) + srsRAN (eNB)
 
 ## Building docker images
 
