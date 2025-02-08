@@ -1,6 +1,6 @@
 {
   "type": "event",
-  "timestamp": 1737825688.188,
+  "timestamp": 1738973744.805,
   "carrier_id": 0,
   "cell_id": 1,
   "event_name": "sector_start",
@@ -12,7 +12,7 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825689.193,
+  "timestamp": 1738973745.809,
   "cell_list": [
     {
       "cell_container": {
@@ -27,7 +27,7 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825690.194,
+  "timestamp": 1738973746.809,
   "cell_list": [
     {
       "cell_container": {
@@ -42,7 +42,7 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825691.193,
+  "timestamp": 1738973747.809,
   "cell_list": [
     {
       "cell_container": {
@@ -57,7 +57,7 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825692.193,
+  "timestamp": 1738973748.809,
   "cell_list": [
     {
       "cell_container": {
@@ -72,7 +72,7 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825693.194,
+  "timestamp": 1738973749.809,
   "cell_list": [
     {
       "cell_container": {
@@ -87,7 +87,7 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825694.194,
+  "timestamp": 1738973750.809,
   "cell_list": [
     {
       "cell_container": {
@@ -102,7 +102,7 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825695.194,
+  "timestamp": 1738973751.809,
   "cell_list": [
     {
       "cell_container": {
@@ -117,7 +117,7 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825696.194,
+  "timestamp": 1738973752.809,
   "cell_list": [
     {
       "cell_container": {
@@ -132,7 +132,7 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825697.193,
+  "timestamp": 1738973753.809,
   "cell_list": [
     {
       "cell_container": {
@@ -147,7 +147,7 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825698.193,
+  "timestamp": 1738973754.809,
   "cell_list": [
     {
       "cell_container": {
@@ -162,7 +162,7 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825699.193,
+  "timestamp": 1738973755.809,
   "cell_list": [
     {
       "cell_container": {
@@ -176,960 +176,81 @@
   ]
 }
 {
-  "type": "metrics",
-  "timestamp": 1737825700.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825701.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825702.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825703.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825704.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825705.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825706.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825707.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825708.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825709.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825710.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825711.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825712.194,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825713.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825714.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825715.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825716.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825717.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825718.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825719.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825720.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825721.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825722.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825723.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825724.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825725.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825726.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825727.194,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825728.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825729.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825730.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825731.194,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825732.194,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825733.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825734.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825735.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825736.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825737.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825738.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825739.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825740.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825741.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825742.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825743.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825744.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825745.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825746.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825747.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825748.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825749.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825750.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825751.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825752.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825753.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825754.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825755.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825756.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825757.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825758.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825759.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "metrics",
-  "timestamp": 1737825760.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
+  "type": "event",
+  "timestamp": 1738973756.598,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 74,
+    "asn1_length": 212,
+    "asn1_message": "{\n\"criticalExtensions\":{\n\"rrcConnectionRequest-r8\":{\n\"ue-Identity\":{\n\"randomValue\":\"1001001101010110000001100100111001001110\"\n},\n\"establishmentCause\":\"mo-Signalling\",\n\"spare\":\"0\"\n}\n}\n}",
+    "asn1_type": 0,
+    "additional": 0
+  }
 }
 {
-  "type": "metrics",
-  "timestamp": 1737825761.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
+  "type": "event",
+  "timestamp": 1738973756.601,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 74,
+    "asn1_length": 1627,
+    "asn1_message": "[\n{\n\"DL-CCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionSetup\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetup-r8\":{\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":1,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"mac-MainConfig\":{\n\"explicitValue\":{\n\"ul-SCH-Config\":{\n\"maxHARQ-Tx\":\"n4\",\n\"periodicBSR-Timer\":\"sf20\",\n\"retxBSR-Timer\":\"sf320\",\n\"ttiBundling\":false\n},\n\"timeAlignmentTimerDedicated\":\"infinity\",\n\"phr-Config\":{\n\"setup\":{\n\"periodicPHR-Timer\":\"sf50\",\n\"prohibitPHR-Timer\":\"sf0\",\n\"dl-PathlossChange\":\"dB3\"\n}\n}\n}\n},\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":38,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":15,\n\"dsr-TransMax\":\"n64\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 1,
+    "additional": 0
+  }
 }
 {
-  "type": "metrics",
-  "timestamp": 1737825762.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
+  "type": "event",
+  "timestamp": 1738973756.647,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 74,
+    "asn1_length": 359,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetupComplete-r8\":{\n\"selectedPLMN-Identity\":1,\n\"dedicatedInfoNAS\":\"1788b4fd600207410208091010000010000107f0f00000188030002c0201d011d127248080211001000010810600000000830600000000000d00000a00000500001000001a0105c05c10049011034f18245d0103c16f04f000f000\"\n}\n}\n}\n}",
+    "asn1_type": 2,
+    "additional": 0
+  }
 }
 {
   "type": "metrics",
-  "timestamp": 1737825763.193,
+  "timestamp": 1738973756.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 5,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 74,
+              "dl_cqi": 7.5,
+              "dl_mcs": 4.3023257,
+              "ul_pusch_rssi": -25.673756,
+              "ul_pucch_rssi": -15.041733,
+              "ul_pucch_ni": 122.692215,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.16799998,
+              "ul_snr_offset": 0.004,
+              "dl_bitrate": 3443.946,
+              "dl_bler": 80.0,
+              "ul_snr": 21.139446,
+              "ul_mcs": 8.4,
+              "ul_bitrate": 43551.57,
+              "ul_bler": 0.0,
+              "ul_phr": 15.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+              ]
+            }
+          }
         ]
       }
     }
@@ -1137,14 +258,38 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825764.193,
+  "timestamp": 1738973757.812,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 5,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 74,
+              "dl_cqi": 0.1,
+              "dl_mcs": 8.0,
+              "ul_pusch_rssi": 0.0,
+              "ul_pucch_rssi": 0.0,
+              "ul_pucch_ni": 0.0,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.31999993,
+              "ul_snr_offset": 0.004,
+              "dl_bitrate": 0.0,
+              "dl_bler": 100.0,
+              "ul_snr": 0.0,
+              "ul_mcs": 0.0,
+              "ul_bitrate": 0.0,
+              "ul_bler": 0.0,
+              "ul_phr": 0.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+              ]
+            }
+          }
         ]
       }
     }
@@ -1152,14 +297,38 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825765.193,
+  "timestamp": 1738973758.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 5,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 74,
+              "dl_cqi": 0.1,
+              "dl_mcs": 0.0,
+              "ul_pusch_rssi": 0.0,
+              "ul_pucch_rssi": 0.0,
+              "ul_pucch_ni": 0.0,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.31999993,
+              "ul_snr_offset": 0.004,
+              "dl_bitrate": 0.0,
+              "dl_bler": 0.0,
+              "ul_snr": 0.0,
+              "ul_mcs": 0.0,
+              "ul_bitrate": 0.0,
+              "ul_bler": 0.0,
+              "ul_phr": 0.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+              ]
+            }
+          }
         ]
       }
     }
@@ -1167,14 +336,38 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825766.193,
+  "timestamp": 1738973759.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 5,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 74,
+              "dl_cqi": 11.0,
+              "dl_mcs": 0.0,
+              "ul_pusch_rssi": 0.0,
+              "ul_pucch_rssi": -121.33771,
+              "ul_pucch_ni": 190.38467,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.31999993,
+              "ul_snr_offset": 0.004,
+              "dl_bitrate": 0.0,
+              "dl_bler": 0.0,
+              "ul_snr": 0.0,
+              "ul_mcs": 0.0,
+              "ul_bitrate": 0.0,
+              "ul_bler": 0.0,
+              "ul_phr": 0.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+              ]
+            }
+          }
         ]
       }
     }
@@ -1182,73 +375,196 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825767.193,
+  "timestamp": 1738973760.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 5,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 74,
+              "dl_cqi": 7.5,
+              "dl_mcs": 0.0,
+              "ul_pusch_rssi": 0.0,
+              "ul_pucch_rssi": -244.84949,
+              "ul_pucch_ni": 372.41858,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.31999993,
+              "ul_snr_offset": 0.004,
+              "dl_bitrate": 0.0,
+              "dl_bler": 100.0,
+              "ul_snr": 0.0,
+              "ul_mcs": 0.0,
+              "ul_bitrate": 0.0,
+              "ul_bler": 0.0,
+              "ul_phr": 0.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+              ]
+            }
+          }
         ]
       }
     }
   ]
 }
 {
-  "type": "metrics",
-  "timestamp": 1737825768.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
+  "type": "event",
+  "timestamp": 1738973760.909,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rlf_detected",
+  "event_data": {
+    "rnti": 74,
+    "type": "rlc_rlf"
+  }
 }
 {
-  "type": "metrics",
-  "timestamp": 1737825769.193,
-  "cell_list": [
-    {
-      "cell_container": {
-        "carrier_id": 0,
-        "pci": 1,
-        "nof_rach": 0,
-        "ue_list": [
-        ]
-      }
-    }
-  ]
+  "type": "event",
+  "timestamp": 1738973760.9650002,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "s1_context_delete",
+  "event_data": {
+    "mme_ue_s1ap_id": 6,
+    "enb_ue_s1ap_id": 1,
+    "rnti": 74
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973760.966,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 74,
+    "asn1_length": 236,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionRelease\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionRelease-r8\":{\n\"releaseCause\":\"other\"\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 10,
+    "additional": 4
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973761.674,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 75,
+    "asn1_length": 212,
+    "asn1_message": "{\n\"criticalExtensions\":{\n\"rrcConnectionRequest-r8\":{\n\"ue-Identity\":{\n\"randomValue\":\"1010010111100001010101101011000111010110\"\n},\n\"establishmentCause\":\"mo-Signalling\",\n\"spare\":\"0\"\n}\n}\n}",
+    "asn1_type": 0,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973761.676,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 75,
+    "asn1_length": 1627,
+    "asn1_message": "[\n{\n\"DL-CCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionSetup\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetup-r8\":{\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":1,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"mac-MainConfig\":{\n\"explicitValue\":{\n\"ul-SCH-Config\":{\n\"maxHARQ-Tx\":\"n4\",\n\"periodicBSR-Timer\":\"sf20\",\n\"retxBSR-Timer\":\"sf320\",\n\"ttiBundling\":false\n},\n\"timeAlignmentTimerDedicated\":\"infinity\",\n\"phr-Config\":{\n\"setup\":{\n\"periodicPHR-Timer\":\"sf50\",\n\"prohibitPHR-Timer\":\"sf0\",\n\"dl-PathlossChange\":\"dB3\"\n}\n}\n}\n},\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":38,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":15,\n\"dsr-TransMax\":\"n64\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 1,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973761.74,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 75,
+    "asn1_length": 347,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetupComplete-r8\":{\n\"selectedPLMN-Identity\":1,\n\"dedicatedInfoNAS\":\"07417208091010000010000107f0f00000188030002c0201d011d127248080211001000010810600000000830600000000000d00000a00000500001000001a0105c05c10049011034f18245d0103c16f04f000f000\"\n}\n}\n}\n}",
+    "asn1_type": 2,
+    "additional": 0
+  }
 }
 {
   "type": "metrics",
-  "timestamp": 1737825770.193,
+  "timestamp": 1738973761.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 6,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 75,
+              "dl_cqi": 10.5,
+              "dl_mcs": 5.25,
+              "ul_pusch_rssi": -26.431986,
+              "ul_pucch_rssi": -20.792913,
+              "ul_pucch_ni": 102.65813,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": 0.004,
+              "ul_snr_offset": 0.004,
+              "dl_bitrate": 5643.835,
+              "dl_bler": 0.0,
+              "ul_snr": 23.7954,
+              "ul_mcs": 9.25,
+              "ul_bitrate": 66520.54,
+              "ul_bler": 0.0,
+              "ul_phr": 23.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+              ]
+            }
+          }
         ]
       }
     }
   ]
+}
+{
+  "type": "event",
+  "timestamp": 1738973761.867,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "s1_context_delete",
+  "event_data": {
+    "mme_ue_s1ap_id": 7,
+    "enb_ue_s1ap_id": 2,
+    "rnti": 75
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973761.868,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 75,
+    "asn1_length": 236,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionRelease\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionRelease-r8\":{\n\"releaseCause\":\"other\"\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 10,
+    "additional": 0
+  }
 }
 {
   "type": "metrics",
-  "timestamp": 1737825771.193,
+  "timestamp": 1738973762.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 6,
         "ue_list": [
         ]
       }
@@ -1257,13 +573,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825772.193,
+  "timestamp": 1738973763.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 6,
         "ue_list": [
         ]
       }
@@ -1272,13 +588,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825773.193,
+  "timestamp": 1738973764.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 6,
         "ue_list": [
         ]
       }
@@ -1287,13 +603,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825774.193,
+  "timestamp": 1738973765.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 6,
         "ue_list": [
         ]
       }
@@ -1302,13 +618,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825775.193,
+  "timestamp": 1738973766.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 6,
         "ue_list": [
         ]
       }
@@ -1317,13 +633,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825776.193,
+  "timestamp": 1738973767.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 6,
         "ue_list": [
         ]
       }
@@ -1332,13 +648,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825777.193,
+  "timestamp": 1738973768.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 6,
         "ue_list": [
         ]
       }
@@ -1347,13 +663,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825778.193,
+  "timestamp": 1738973769.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 6,
         "ue_list": [
         ]
       }
@@ -1362,28 +678,96 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825779.193,
+  "timestamp": 1738973770.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 6,
         "ue_list": [
         ]
       }
     }
   ]
+}
+{
+  "type": "event",
+  "timestamp": 1738973771.114,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 76,
+    "asn1_length": 212,
+    "asn1_message": "{\n\"criticalExtensions\":{\n\"rrcConnectionRequest-r8\":{\n\"ue-Identity\":{\n\"randomValue\":\"0000111010010011111110001111001110011111\"\n},\n\"establishmentCause\":\"mo-Signalling\",\n\"spare\":\"0\"\n}\n}\n}",
+    "asn1_type": 0,
+    "additional": 0
+  }
 }
 {
+  "type": "event",
+  "timestamp": 1738973771.115,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 76,
+    "asn1_length": 1627,
+    "asn1_message": "[\n{\n\"DL-CCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionSetup\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetup-r8\":{\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":1,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"mac-MainConfig\":{\n\"explicitValue\":{\n\"ul-SCH-Config\":{\n\"maxHARQ-Tx\":\"n4\",\n\"periodicBSR-Timer\":\"sf20\",\n\"retxBSR-Timer\":\"sf320\",\n\"ttiBundling\":false\n},\n\"timeAlignmentTimerDedicated\":\"infinity\",\n\"phr-Config\":{\n\"setup\":{\n\"periodicPHR-Timer\":\"sf50\",\n\"prohibitPHR-Timer\":\"sf0\",\n\"dl-PathlossChange\":\"dB3\"\n}\n}\n}\n},\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":38,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":15,\n\"dsr-TransMax\":\"n64\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 1,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973771.18,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 76,
+    "asn1_length": 359,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetupComplete-r8\":{\n\"selectedPLMN-Identity\":1,\n\"dedicatedInfoNAS\":\"17e4c463770207410208091010000010000107f0f00000188030002c0201d011d127248080211001000010810600000000830600000000000d00000a00000500001000001a0105c05c10049011034f18245d0103c16f04f000f000\"\n}\n}\n}\n}",
+    "asn1_type": 2,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973771.357,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "s1_context_delete",
+  "event_data": {
+    "mme_ue_s1ap_id": 8,
+    "enb_ue_s1ap_id": 3,
+    "rnti": 76
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973771.358,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 76,
+    "asn1_length": 236,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionRelease\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionRelease-r8\":{\n\"releaseCause\":\"other\"\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 10,
+    "additional": 0
+  }
+}
+{
   "type": "metrics",
-  "timestamp": 1737825780.193,
+  "timestamp": 1738973771.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 7,
         "ue_list": [
         ]
       }
@@ -1392,13 +776,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825781.193,
+  "timestamp": 1738973772.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 7,
         "ue_list": [
         ]
       }
@@ -1407,13 +791,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825782.193,
+  "timestamp": 1738973773.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 7,
         "ue_list": [
         ]
       }
@@ -1422,13 +806,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825783.193,
+  "timestamp": 1738973774.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 7,
         "ue_list": [
         ]
       }
@@ -1437,13 +821,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825784.193,
+  "timestamp": 1738973775.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 7,
         "ue_list": [
         ]
       }
@@ -1452,13 +836,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825785.193,
+  "timestamp": 1738973776.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 7,
         "ue_list": [
         ]
       }
@@ -1467,13 +851,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825786.193,
+  "timestamp": 1738973777.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 7,
         "ue_list": [
         ]
       }
@@ -1482,13 +866,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825787.193,
+  "timestamp": 1738973778.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 7,
         "ue_list": [
         ]
       }
@@ -1497,13 +881,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825788.193,
+  "timestamp": 1738973779.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 7,
         "ue_list": [
         ]
       }
@@ -1512,28 +896,96 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825789.193,
+  "timestamp": 1738973780.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 7,
         "ue_list": [
         ]
       }
     }
   ]
+}
+{
+  "type": "event",
+  "timestamp": 1738973781.463,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 77,
+    "asn1_length": 212,
+    "asn1_message": "{\n\"criticalExtensions\":{\n\"rrcConnectionRequest-r8\":{\n\"ue-Identity\":{\n\"randomValue\":\"1000110100111010111100001011010000101100\"\n},\n\"establishmentCause\":\"mo-Signalling\",\n\"spare\":\"0\"\n}\n}\n}",
+    "asn1_type": 0,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973781.463,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 77,
+    "asn1_length": 1627,
+    "asn1_message": "[\n{\n\"DL-CCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionSetup\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetup-r8\":{\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":1,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"mac-MainConfig\":{\n\"explicitValue\":{\n\"ul-SCH-Config\":{\n\"maxHARQ-Tx\":\"n4\",\n\"periodicBSR-Timer\":\"sf20\",\n\"retxBSR-Timer\":\"sf320\",\n\"ttiBundling\":false\n},\n\"timeAlignmentTimerDedicated\":\"infinity\",\n\"phr-Config\":{\n\"setup\":{\n\"periodicPHR-Timer\":\"sf50\",\n\"prohibitPHR-Timer\":\"sf0\",\n\"dl-PathlossChange\":\"dB3\"\n}\n}\n}\n},\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":38,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":15,\n\"dsr-TransMax\":\"n64\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 1,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973781.519,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 77,
+    "asn1_length": 359,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetupComplete-r8\":{\n\"selectedPLMN-Identity\":1,\n\"dedicatedInfoNAS\":\"1715224b360207410208091010000010000107f0f00000188030002c0202d011d127248080211001000010810600000000830600000000000d00000a00000500001000001a0105c05c10049011034f18245d0103c16f04f000f000\"\n}\n}\n}\n}",
+    "asn1_type": 2,
+    "additional": 0
+  }
 }
 {
+  "type": "event",
+  "timestamp": 1738973781.645,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "s1_context_delete",
+  "event_data": {
+    "mme_ue_s1ap_id": 9,
+    "enb_ue_s1ap_id": 4,
+    "rnti": 77
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973781.6460001,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 77,
+    "asn1_length": 236,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionRelease\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionRelease-r8\":{\n\"releaseCause\":\"other\"\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 10,
+    "additional": 0
+  }
+}
+{
   "type": "metrics",
-  "timestamp": 1737825790.193,
+  "timestamp": 1738973781.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
@@ -1542,13 +994,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825791.193,
+  "timestamp": 1738973782.811,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
@@ -1557,13 +1009,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825792.193,
+  "timestamp": 1738973783.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
@@ -1572,13 +1024,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825793.193,
+  "timestamp": 1738973784.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
@@ -1587,13 +1039,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825794.193,
+  "timestamp": 1738973785.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
@@ -1602,13 +1054,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825795.193,
+  "timestamp": 1738973786.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
@@ -1617,13 +1069,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825796.193,
+  "timestamp": 1738973787.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
@@ -1632,13 +1084,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825797.193,
+  "timestamp": 1738973788.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
@@ -1647,13 +1099,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825798.193,
+  "timestamp": 1738973789.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
@@ -1662,13 +1114,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825799.193,
+  "timestamp": 1738973790.81,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
@@ -1677,13 +1129,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825800.193,
+  "timestamp": 1738973791.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
@@ -1692,13 +1144,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825801.193,
+  "timestamp": 1738973792.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
@@ -1707,44 +1159,226 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825802.193,
+  "timestamp": 1738973793.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 8,
         "ue_list": [
         ]
       }
     }
   ]
+}
+{
+  "type": "event",
+  "timestamp": 1738973794.653,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 78,
+    "asn1_length": 212,
+    "asn1_message": "{\n\"criticalExtensions\":{\n\"rrcConnectionRequest-r8\":{\n\"ue-Identity\":{\n\"randomValue\":\"1000100110110011010100101000101110011011\"\n},\n\"establishmentCause\":\"mo-Signalling\",\n\"spare\":\"0\"\n}\n}\n}",
+    "asn1_type": 0,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973794.654,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 78,
+    "asn1_length": 1627,
+    "asn1_message": "[\n{\n\"DL-CCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionSetup\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetup-r8\":{\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":1,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"mac-MainConfig\":{\n\"explicitValue\":{\n\"ul-SCH-Config\":{\n\"maxHARQ-Tx\":\"n4\",\n\"periodicBSR-Timer\":\"sf20\",\n\"retxBSR-Timer\":\"sf320\",\n\"ttiBundling\":false\n},\n\"timeAlignmentTimerDedicated\":\"infinity\",\n\"phr-Config\":{\n\"setup\":{\n\"periodicPHR-Timer\":\"sf50\",\n\"prohibitPHR-Timer\":\"sf0\",\n\"dl-PathlossChange\":\"dB3\"\n}\n}\n}\n},\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":38,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":15,\n\"dsr-TransMax\":\"n64\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 1,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973794.719,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 78,
+    "asn1_length": 359,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetupComplete-r8\":{\n\"selectedPLMN-Identity\":1,\n\"dedicatedInfoNAS\":\"175ac5f4710207410208091010000010000107f0f00000188030002c0201d011d127248080211001000010810600000000830600000000000d00000a00000500001000001a0105c05c10049011034f18245d0103c16f04f000f000\"\n}\n}\n}\n}",
+    "asn1_type": 2,
+    "additional": 0
+  }
 }
 {
   "type": "metrics",
-  "timestamp": 1737825803.193,
+  "timestamp": 1738973794.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 9,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 78,
+              "dl_cqi": 7.3333335,
+              "dl_mcs": 3.9166667,
+              "ul_pusch_rssi": -27.726135,
+              "ul_pucch_rssi": -19.159689,
+              "ul_pucch_ni": 105.42807,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": 0.004,
+              "ul_snr_offset": 0.004,
+              "dl_bitrate": 4934.1313,
+              "dl_bler": 0.0,
+              "ul_snr": 24.210186,
+              "ul_mcs": 10.0,
+              "ul_bitrate": 58922.152,
+              "ul_bler": 0.0,
+              "ul_phr": 15.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+              ]
+            }
+          }
         ]
       }
     }
   ]
 }
 {
+  "type": "event",
+  "timestamp": 1738973795.053,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 78,
+    "asn1_length": 2609,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReconfiguration\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReconfiguration-r8\":{\n\"measConfig\":{\n\"measObjectToAddModList\":[\n{\n\"measObjectId\":1,\n\"measObject\":{\n\"measObjectEUTRA\":{\n\"carrierFreq\":2525,\n\"allowedMeasBandwidth\":\"mbw6\",\n\"presenceAntennaPort1\":false,\n\"neighCellConfig\":\"01\"\n}\n}\n}\n],\n\"quantityConfig\":{\n\"quantityConfigEUTRA\":{\n}\n}\n},\n\"dedicatedInfoNASList\":[\n\"2740db3cc30207420229064000f110000100465201c101090908696e7465726e65740501c0a8640a5e06fefefafa020227278080211002000010810608080808830608080404000d0408080808000d040808040400100205aa500bf600f110000201c00004b41300f11000012305f40575242b64020108\"\n],\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":2,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"drb-ToAddModList\":[\n{\n\"eps-BearerIdentity\":5,\n\"drb-Identity\":1,\n\"pdcp-Config\":{\n\"discardTimer\":\"ms150\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms120\",\n\"pollPDU\":\"p64\",\n\"pollByte\":\"kB750\",\n\"maxRetxThreshold\":\"t16\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms50\",\n\"t-StatusProhibit\":\"ms50\"\n}\n}\n},\n\"logicalChannelIdentity\":3,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":3\n}\n}\n}\n],\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":38,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":15,\n\"dsr-TransMax\":\"n64\"\n}\n},\n\"cqi-ReportConfigPCell-v1250\":{\n\"altCQI-Table-r12\":\"allSubframes\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 3,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973795.079,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 78,
+    "asn1_length": 117,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReconfigurationComplete-r8\":{\n}\n}\n}",
+    "asn1_type": 4,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973795.079,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "s1_context_create",
+  "event_data": {
+    "mme_ue_s1ap_id": 10,
+    "enb_ue_s1ap_id": 5,
+    "rnti": 78
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973795.3270001,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 78,
+    "asn1_length": 1198,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReconfiguration\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReconfiguration-r8\":{\n\"dedicatedInfoNASList\":[\n\"277a0680f7046202c101050403696d730501c0a865025e02ae8e583227548080211002000010810608080808830608080404000c04ac160015000d0408080808000d0408080404000310200148604860000000000000000088880003102001486048600000000000000000884400100205aa\"\n],\n\"radioResourceConfigDedicated\":{\n\"drb-ToAddModList\":[\n{\n\"eps-BearerIdentity\":6,\n\"drb-Identity\":2,\n\"pdcp-Config\":{\n\"discardTimer\":\"infinity\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms80\",\n\"pollPDU\":\"p128\",\n\"pollByte\":\"kB125\",\n\"maxRetxThreshold\":\"t4\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms80\",\n\"t-StatusProhibit\":\"ms60\"\n}\n}\n},\n\"logicalChannelIdentity\":4,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":2\n}\n}\n}\n]\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 3,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973795.359,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 78,
+    "asn1_length": 117,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReconfigurationComplete-r8\":{\n}\n}\n}",
+    "asn1_type": 4,
+    "additional": 0
+  }
+}
+{
   "type": "metrics",
-  "timestamp": 1737825804.193,
+  "timestamp": 1738973795.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 9,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 78,
+              "dl_cqi": 4.9599996,
+              "dl_mcs": 5.744868,
+              "ul_pusch_rssi": -30.707403,
+              "ul_pucch_rssi": -20.313562,
+              "ul_pucch_ni": 104.03992,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.07699984,
+              "ul_snr_offset": 0.016999973,
+              "dl_bitrate": 927080.0,
+              "dl_bler": 7.913669,
+              "ul_snr": 27.618362,
+              "ul_mcs": 22.96063,
+              "ul_bitrate": 459864.0,
+              "ul_bler": 3.7735848,
+              "ul_phr": 17.90909,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 104991,
+                    "ul_total_bytes": 24361,
+                    "dl_latency": 0.052,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 8280,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -1752,29 +1386,207 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825805.193,
+  "timestamp": 1738973796.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 9,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 78,
+              "dl_cqi": 4.791667,
+              "dl_mcs": 7.460402,
+              "ul_pusch_rssi": -38.647247,
+              "ul_pucch_rssi": -20.484903,
+              "ul_pucch_ni": 103.92837,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -1.8450034,
+              "ul_snr_offset": -1.0419998,
+              "dl_bitrate": 930224.0,
+              "dl_bler": 44.262295,
+              "ul_snr": 18.590654,
+              "ul_mcs": 22.394104,
+              "ul_bitrate": 996056.0,
+              "ul_bler": 37.8882,
+              "ul_phr": 18.285715,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 225507,
+                    "ul_total_bytes": 87597,
+                    "dl_latency": 0.044,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 45297,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
   ]
+}
+{
+  "type": "event",
+  "timestamp": 1738973797.1430001,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 79,
+    "asn1_length": 257,
+    "asn1_message": "{\n\"criticalExtensions\":{\n\"rrcConnectionReestablishmentRequest-r8\":{\n\"ue-Identity\":{\n\"c-RNTI\":\"0000000001001110\",\n\"physCellId\":1,\n\"shortMAC-I\":\"1000011001000010\"\n},\n\"reestablishmentCause\":\"otherFailure\",\n\"spare\":\"00\"\n}\n}\n}",
+    "asn1_type": 5,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973797.145,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 79,
+    "asn1_length": 1676,
+    "asn1_message": "[\n{\n\"DL-CCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReestablishment\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReestablishment-r8\":{\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":1,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"mac-MainConfig\":{\n\"explicitValue\":{\n\"ul-SCH-Config\":{\n\"maxHARQ-Tx\":\"n4\",\n\"periodicBSR-Timer\":\"sf20\",\n\"retxBSR-Timer\":\"sf320\",\n\"ttiBundling\":false\n},\n\"timeAlignmentTimerDedicated\":\"infinity\",\n\"phr-Config\":{\n\"setup\":{\n\"periodicPHR-Timer\":\"sf50\",\n\"prohibitPHR-Timer\":\"sf0\",\n\"dl-PathlossChange\":\"dB3\"\n}\n}\n}\n},\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":40,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":17,\n\"dsr-TransMax\":\"n64\"\n}\n}\n}\n},\n\"nextHopChainingCount\":0\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 6,
+    "additional": 0
+  }
 }
 {
+  "type": "event",
+  "timestamp": 1738973797.181,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 79,
+    "asn1_length": 183,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReestablishmentComplete-r8\":{\n\"nonCriticalExtension\":{\n\"rlf-InfoAvailable-r9\":\"true\"\n}\n}\n}\n}",
+    "asn1_type": 7,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973797.185,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 79,
+    "asn1_length": 2976,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReconfiguration\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReconfiguration-r8\":{\n\"measConfig\":{\n\"measObjectToAddModList\":[\n{\n\"measObjectId\":1,\n\"measObject\":{\n\"measObjectEUTRA\":{\n\"carrierFreq\":2525,\n\"allowedMeasBandwidth\":\"mbw6\",\n\"presenceAntennaPort1\":false,\n\"neighCellConfig\":\"01\"\n}\n}\n}\n],\n\"quantityConfig\":{\n\"quantityConfigEUTRA\":{\n}\n}\n},\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":2,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"drb-ToAddModList\":[\n{\n\"eps-BearerIdentity\":5,\n\"drb-Identity\":1,\n\"pdcp-Config\":{\n\"discardTimer\":\"ms150\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms120\",\n\"pollPDU\":\"p64\",\n\"pollByte\":\"kB750\",\n\"maxRetxThreshold\":\"t16\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms50\",\n\"t-StatusProhibit\":\"ms50\"\n}\n}\n},\n\"logicalChannelIdentity\":3,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":3\n}\n}\n},\n{\n\"eps-BearerIdentity\":6,\n\"drb-Identity\":2,\n\"pdcp-Config\":{\n\"discardTimer\":\"infinity\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms80\",\n\"pollPDU\":\"p128\",\n\"pollByte\":\"kB125\",\n\"maxRetxThreshold\":\"t4\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms80\",\n\"t-StatusProhibit\":\"ms60\"\n}\n}\n},\n\"logicalChannelIdentity\":4,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":2\n}\n}\n}\n],\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":40,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":17,\n\"dsr-TransMax\":\"n64\"\n}\n},\n\"cqi-ReportConfigPCell-v1250\":{\n\"altCQI-Table-r12\":\"allSubframes\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 3,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973797.201,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 79,
+    "asn1_length": 117,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReconfigurationComplete-r8\":{\n}\n}\n}",
+    "asn1_type": 4,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973797.2350001,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rlf_report",
+  "event_data": {
+    "asn1_length": 821,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"ueInformationResponse-r9\":{\n\"rach-Report-r9\":{\n\"numberOfPreamblesSent-r16\":1,\n\"contentionDetected-r16\":false\n},\n\"rlf-Report-r9\":{\n\"measResultLastServCell-r9\":{\n\"rsrpResult-r9\":17,\n\"rsrqResult-r9\":0\n},\n\"failedPCellId-r10\":{\n\"cellGlobalId-r10\":{\n\"plmn-Identity\":{\n\"mcc\":[\n0,\n0,\n1\n],\n\"mnc\":[\n0,\n1\n]\n},\n\"cellIdentity\":\"0000000000011001101100000001\"\n}\n},\n\"reestablishmentCellId-r10\":{\n\"plmn-Identity\":{\n\"mcc\":[\n0,\n0,\n1\n],\n\"mnc\":[\n0,\n1\n]\n},\n\"cellIdentity\":\"0000000000011001101100000001\"\n},\n\"connectionFailureType-r10\":\"rlf\",\n\"basicFields-r11\":{\n\"c-RNTI-r11\":\"0000000000000000\",\n\"rlf-Cause-r11\":\"t310-Expiry\",\n\"timeSinceFailure-r11\":0\n}\n}\n}\n}\n}\n}",
+    "rnti": 79
+  }
+}
+{
   "type": "metrics",
-  "timestamp": 1737825806.193,
+  "timestamp": 1738973797.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 10,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 79,
+              "dl_cqi": 5.352941,
+              "dl_mcs": 7.486215,
+              "ul_pusch_rssi": -30.491852,
+              "ul_pucch_rssi": -19.872694,
+              "ul_pucch_ni": 100.48377,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.11399979,
+              "ul_snr_offset": -0.52600074,
+              "dl_bitrate": 1935491.75,
+              "dl_bler": 8.433735,
+              "ul_snr": 24.308418,
+              "ul_mcs": 22.188974,
+              "ul_bitrate": 1444017.6,
+              "ul_bler": 28.070175,
+              "ul_phr": 16.5,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 150979,
+                    "ul_total_bytes": 77246,
+                    "dl_latency": 0.04,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 4575,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -1782,44 +1594,390 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825807.193,
+  "timestamp": 1738973798.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 10,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 79,
+              "dl_cqi": 5.789473,
+              "dl_mcs": 6.6710525,
+              "ul_pusch_rssi": -29.56546,
+              "ul_pucch_rssi": -19.142778,
+              "ul_pucch_ni": 100.72838,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.7779994,
+              "ul_snr_offset": -0.6620014,
+              "dl_bitrate": 340600.0,
+              "dl_bler": 35.294117,
+              "ul_snr": 25.661459,
+              "ul_mcs": 22.3,
+              "ul_bitrate": 495280.0,
+              "ul_bler": 15.625,
+              "ul_phr": 18.333334,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 188867,
+                    "ul_total_bytes": 108296,
+                    "dl_latency": 0.042,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 3227,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
   ]
+}
+{
+  "type": "event",
+  "timestamp": 1738973799.043,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 80,
+    "asn1_length": 257,
+    "asn1_message": "{\n\"criticalExtensions\":{\n\"rrcConnectionReestablishmentRequest-r8\":{\n\"ue-Identity\":{\n\"c-RNTI\":\"0000000001001111\",\n\"physCellId\":1,\n\"shortMAC-I\":\"0010101101101000\"\n},\n\"reestablishmentCause\":\"otherFailure\",\n\"spare\":\"00\"\n}\n}\n}",
+    "asn1_type": 5,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973799.0440001,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 80,
+    "asn1_length": 1676,
+    "asn1_message": "[\n{\n\"DL-CCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReestablishment\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReestablishment-r8\":{\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":1,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"mac-MainConfig\":{\n\"explicitValue\":{\n\"ul-SCH-Config\":{\n\"maxHARQ-Tx\":\"n4\",\n\"periodicBSR-Timer\":\"sf20\",\n\"retxBSR-Timer\":\"sf320\",\n\"ttiBundling\":false\n},\n\"timeAlignmentTimerDedicated\":\"infinity\",\n\"phr-Config\":{\n\"setup\":{\n\"periodicPHR-Timer\":\"sf50\",\n\"prohibitPHR-Timer\":\"sf0\",\n\"dl-PathlossChange\":\"dB3\"\n}\n}\n}\n},\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":38,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":15,\n\"dsr-TransMax\":\"n64\"\n}\n}\n}\n},\n\"nextHopChainingCount\":0\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 6,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973799.079,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 80,
+    "asn1_length": 183,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReestablishmentComplete-r8\":{\n\"nonCriticalExtension\":{\n\"rlf-InfoAvailable-r9\":\"true\"\n}\n}\n}\n}",
+    "asn1_type": 7,
+    "additional": 0
+  }
 }
 {
+  "type": "event",
+  "timestamp": 1738973799.082,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 80,
+    "asn1_length": 2976,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReconfiguration\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReconfiguration-r8\":{\n\"measConfig\":{\n\"measObjectToAddModList\":[\n{\n\"measObjectId\":1,\n\"measObject\":{\n\"measObjectEUTRA\":{\n\"carrierFreq\":2525,\n\"allowedMeasBandwidth\":\"mbw6\",\n\"presenceAntennaPort1\":false,\n\"neighCellConfig\":\"01\"\n}\n}\n}\n],\n\"quantityConfig\":{\n\"quantityConfigEUTRA\":{\n}\n}\n},\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":2,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"drb-ToAddModList\":[\n{\n\"eps-BearerIdentity\":5,\n\"drb-Identity\":1,\n\"pdcp-Config\":{\n\"discardTimer\":\"ms150\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms120\",\n\"pollPDU\":\"p64\",\n\"pollByte\":\"kB750\",\n\"maxRetxThreshold\":\"t16\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms50\",\n\"t-StatusProhibit\":\"ms50\"\n}\n}\n},\n\"logicalChannelIdentity\":3,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":3\n}\n}\n},\n{\n\"eps-BearerIdentity\":6,\n\"drb-Identity\":2,\n\"pdcp-Config\":{\n\"discardTimer\":\"infinity\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms80\",\n\"pollPDU\":\"p128\",\n\"pollByte\":\"kB125\",\n\"maxRetxThreshold\":\"t4\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms80\",\n\"t-StatusProhibit\":\"ms60\"\n}\n}\n},\n\"logicalChannelIdentity\":4,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":2\n}\n}\n}\n],\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":38,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":15,\n\"dsr-TransMax\":\"n64\"\n}\n},\n\"cqi-ReportConfigPCell-v1250\":{\n\"altCQI-Table-r12\":\"allSubframes\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 3,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973799.099,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 80,
+    "asn1_length": 117,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReconfigurationComplete-r8\":{\n}\n}\n}",
+    "asn1_type": 4,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973799.118,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rlf_report",
+  "event_data": {
+    "asn1_length": 821,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"ueInformationResponse-r9\":{\n\"rach-Report-r9\":{\n\"numberOfPreamblesSent-r16\":1,\n\"contentionDetected-r16\":false\n},\n\"rlf-Report-r9\":{\n\"measResultLastServCell-r9\":{\n\"rsrpResult-r9\":19,\n\"rsrqResult-r9\":1\n},\n\"failedPCellId-r10\":{\n\"cellGlobalId-r10\":{\n\"plmn-Identity\":{\n\"mcc\":[\n0,\n0,\n1\n],\n\"mnc\":[\n0,\n1\n]\n},\n\"cellIdentity\":\"0000000000011001101100000001\"\n}\n},\n\"reestablishmentCellId-r10\":{\n\"plmn-Identity\":{\n\"mcc\":[\n0,\n0,\n1\n],\n\"mnc\":[\n0,\n1\n]\n},\n\"cellIdentity\":\"0000000000011001101100000001\"\n},\n\"connectionFailureType-r10\":\"rlf\",\n\"basicFields-r11\":{\n\"c-RNTI-r11\":\"0000000000000000\",\n\"rlf-Cause-r11\":\"t310-Expiry\",\n\"timeSinceFailure-r11\":0\n}\n}\n}\n}\n}\n}",
+    "rnti": 80
+  }
+}
+{
   "type": "metrics",
-  "timestamp": 1737825808.193,
+  "timestamp": 1738973799.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 12,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 80,
+              "dl_cqi": 5.6666665,
+              "dl_mcs": 6.754438,
+              "ul_pusch_rssi": -36.669914,
+              "ul_pucch_rssi": -18.719753,
+              "ul_pucch_ni": 101.87297,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -2.218003,
+              "ul_snr_offset": -0.3459999,
+              "dl_bitrate": 208885.45,
+              "dl_bler": 83.098595,
+              "ul_snr": 15.974584,
+              "ul_mcs": 21.666666,
+              "ul_bitrate": 324272.84,
+              "ul_bler": 55.882355,
+              "ul_phr": 17.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 22889,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 1328,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
   ]
+}
+{
+  "type": "event",
+  "timestamp": 1738973800.183,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 82,
+    "asn1_length": 234,
+    "asn1_message": "{\n\"criticalExtensions\":{\n\"rrcConnectionRequest-r8\":{\n\"ue-Identity\":{\n\"s-TMSI\":{\n\"mmec\":\"00000001\",\n\"m-TMSI\":\"11000000000000000000010010110100\"\n}\n},\n\"establishmentCause\":\"mo-Data\",\n\"spare\":\"0\"\n}\n}\n}",
+    "asn1_type": 0,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973800.184,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 82,
+    "asn1_length": 1627,
+    "asn1_message": "[\n{\n\"DL-CCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionSetup\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetup-r8\":{\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":1,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"mac-MainConfig\":{\n\"explicitValue\":{\n\"ul-SCH-Config\":{\n\"maxHARQ-Tx\":\"n4\",\n\"periodicBSR-Timer\":\"sf20\",\n\"retxBSR-Timer\":\"sf320\",\n\"ttiBundling\":false\n},\n\"timeAlignmentTimerDedicated\":\"infinity\",\n\"phr-Config\":{\n\"setup\":{\n\"periodicPHR-Timer\":\"sf50\",\n\"prohibitPHR-Timer\":\"sf0\",\n\"dl-PathlossChange\":\"dB3\"\n}\n}\n}\n},\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":40,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":17,\n\"dsr-TransMax\":\"n64\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 1,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973800.242,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 82,
+    "asn1_length": 284,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetupComplete-r8\":{\n\"selectedPLMN-Identity\":1,\n\"dedicatedInfoNAS\":\"c705c0bb\",\n\"nonCriticalExtension\":{\n\"nonCriticalExtension\":{\n\"rlf-InfoAvailable-r10\":\"true\"\n}\n}\n}\n}\n}\n}",
+    "asn1_type": 2,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973800.2480001,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "s1_context_delete",
+  "event_data": {
+    "mme_ue_s1ap_id": 10,
+    "enb_ue_s1ap_id": 5,
+    "rnti": 80
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973800.2480001,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 80,
+    "asn1_length": 236,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionRelease\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionRelease-r8\":{\n\"releaseCause\":\"other\"\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 10,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973800.321,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 82,
+    "asn1_length": 2976,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReconfiguration\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReconfiguration-r8\":{\n\"measConfig\":{\n\"measObjectToAddModList\":[\n{\n\"measObjectId\":1,\n\"measObject\":{\n\"measObjectEUTRA\":{\n\"carrierFreq\":2525,\n\"allowedMeasBandwidth\":\"mbw6\",\n\"presenceAntennaPort1\":false,\n\"neighCellConfig\":\"01\"\n}\n}\n}\n],\n\"quantityConfig\":{\n\"quantityConfigEUTRA\":{\n}\n}\n},\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":2,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"drb-ToAddModList\":[\n{\n\"eps-BearerIdentity\":5,\n\"drb-Identity\":1,\n\"pdcp-Config\":{\n\"discardTimer\":\"ms150\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms120\",\n\"pollPDU\":\"p64\",\n\"pollByte\":\"kB750\",\n\"maxRetxThreshold\":\"t16\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms50\",\n\"t-StatusProhibit\":\"ms50\"\n}\n}\n},\n\"logicalChannelIdentity\":3,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":3\n}\n}\n},\n{\n\"eps-BearerIdentity\":6,\n\"drb-Identity\":2,\n\"pdcp-Config\":{\n\"discardTimer\":\"infinity\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms80\",\n\"pollPDU\":\"p128\",\n\"pollByte\":\"kB125\",\n\"maxRetxThreshold\":\"t4\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms80\",\n\"t-StatusProhibit\":\"ms60\"\n}\n}\n},\n\"logicalChannelIdentity\":4,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":2\n}\n}\n}\n],\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":40,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":17,\n\"dsr-TransMax\":\"n64\"\n}\n},\n\"cqi-ReportConfigPCell-v1250\":{\n\"altCQI-Table-r12\":\"allSubframes\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 3,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973800.342,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 82,
+    "asn1_length": 117,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReconfigurationComplete-r8\":{\n}\n}\n}",
+    "asn1_type": 4,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973800.342,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "s1_context_create",
+  "event_data": {
+    "mme_ue_s1ap_id": 11,
+    "enb_ue_s1ap_id": 6,
+    "rnti": 82
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973800.353,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rlf_report",
+  "event_data": {
+    "asn1_length": 661,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"ueInformationResponse-r9\":{\n\"rach-Report-r9\":{\n\"numberOfPreamblesSent-r16\":1,\n\"contentionDetected-r16\":false\n},\n\"rlf-Report-r9\":{\n\"measResultLastServCell-r9\":{\n\"rsrpResult-r9\":16,\n\"rsrqResult-r9\":0\n},\n\"failedPCellId-r10\":{\n\"cellGlobalId-r10\":{\n\"plmn-Identity\":{\n\"mcc\":[\n0,\n0,\n1\n],\n\"mnc\":[\n0,\n1\n]\n},\n\"cellIdentity\":\"0000000000011001101100000001\"\n}\n},\n\"connectionFailureType-r10\":\"rlf\",\n\"basicFields-r11\":{\n\"c-RNTI-r11\":\"0000000000000000\",\n\"rlf-Cause-r11\":\"t310-Expiry\",\n\"timeSinceFailure-r11\":0\n}\n}\n}\n}\n}\n}",
+    "rnti": 82
+  }
 }
 {
   "type": "metrics",
-  "timestamp": 1737825809.193,
+  "timestamp": 1738973800.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 13,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 82,
+              "dl_cqi": 5.8,
+              "dl_mcs": 5.083334,
+              "ul_pusch_rssi": -29.069225,
+              "ul_pucch_rssi": -16.536865,
+              "ul_pucch_ni": 109.319954,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.019999994,
+              "ul_snr_offset": -0.2319999,
+              "dl_bitrate": 167183.67,
+              "dl_bler": 7.5,
+              "ul_snr": 22.279789,
+              "ul_mcs": 20.599998,
+              "ul_bitrate": 579993.7,
+              "ul_bler": 29.166666,
+              "ul_phr": 15.125,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 12307,
+                    "ul_total_bytes": 20886,
+                    "dl_latency": 0.04,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -1827,14 +1985,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825810.193,
+  "timestamp": 1738973801.81,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 13,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 82,
+              "dl_cqi": 4.4374995,
+              "dl_mcs": 5.408888,
+              "ul_pusch_rssi": -30.488695,
+              "ul_pucch_rssi": -15.8216915,
+              "ul_pucch_ni": 115.614174,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.98199946,
+              "ul_snr_offset": -0.8510005,
+              "dl_bitrate": 671871.8,
+              "dl_bler": 33.14917,
+              "ul_snr": 20.512438,
+              "ul_mcs": 20.548115,
+              "ul_bitrate": 683547.5,
+              "ul_bler": 35.643566,
+              "ul_phr": 14.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 92689,
+                    "ul_total_bytes": 67034,
+                    "dl_latency": 0.043,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 885,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -1842,14 +2048,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825811.193,
+  "timestamp": 1738973802.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 13,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 82,
+              "dl_cqi": 13.0,
+              "dl_mcs": 12.35567,
+              "ul_pusch_rssi": 0.0,
+              "ul_pucch_rssi": -118.47968,
+              "ul_pucch_ni": 189.88925,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -2.5210037,
+              "ul_snr_offset": -0.8510005,
+              "dl_bitrate": 0.0,
+              "dl_bler": 100.0,
+              "ul_snr": 0.0,
+              "ul_mcs": 0.0,
+              "ul_bitrate": 0.0,
+              "ul_bler": 0.0,
+              "ul_phr": 0.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 92689,
+                    "ul_total_bytes": 67034,
+                    "dl_latency": 0.043,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 66550,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -1857,14 +2111,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825812.193,
+  "timestamp": 1738973803.81,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 13,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 82,
+              "dl_cqi": 0.1,
+              "dl_mcs": 0.0,
+              "ul_pusch_rssi": 0.0,
+              "ul_pucch_rssi": 0.0,
+              "ul_pucch_ni": 0.0,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -2.5210037,
+              "ul_snr_offset": -0.8510005,
+              "dl_bitrate": 0.0,
+              "dl_bler": 0.0,
+              "ul_snr": 0.0,
+              "ul_mcs": 0.0,
+              "ul_bitrate": 0.0,
+              "ul_bler": 0.0,
+              "ul_phr": 0.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 92689,
+                    "ul_total_bytes": 67034,
+                    "dl_latency": 0.043,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -1872,29 +2174,207 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825813.193,
+  "timestamp": 1738973804.81,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 13,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 82,
+              "dl_cqi": 0.1,
+              "dl_mcs": 0.0,
+              "ul_pusch_rssi": 0.0,
+              "ul_pucch_rssi": 0.0,
+              "ul_pucch_ni": 0.0,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -2.5210037,
+              "ul_snr_offset": -0.8510005,
+              "dl_bitrate": 0.0,
+              "dl_bler": 0.0,
+              "ul_snr": 0.0,
+              "ul_mcs": 0.0,
+              "ul_bitrate": 0.0,
+              "ul_bler": 0.0,
+              "ul_phr": 0.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 92689,
+                    "ul_total_bytes": 67034,
+                    "dl_latency": 0.043,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 1278,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
   ]
+}
+{
+  "type": "event",
+  "timestamp": 1738973805.0640001,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 83,
+    "asn1_length": 257,
+    "asn1_message": "{\n\"criticalExtensions\":{\n\"rrcConnectionReestablishmentRequest-r8\":{\n\"ue-Identity\":{\n\"c-RNTI\":\"0000000001010010\",\n\"physCellId\":1,\n\"shortMAC-I\":\"0100100100010111\"\n},\n\"reestablishmentCause\":\"otherFailure\",\n\"spare\":\"00\"\n}\n}\n}",
+    "asn1_type": 5,
+    "additional": 0
+  }
 }
 {
+  "type": "event",
+  "timestamp": 1738973805.065,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 83,
+    "asn1_length": 1676,
+    "asn1_message": "[\n{\n\"DL-CCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReestablishment\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReestablishment-r8\":{\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":1,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"mac-MainConfig\":{\n\"explicitValue\":{\n\"ul-SCH-Config\":{\n\"maxHARQ-Tx\":\"n4\",\n\"periodicBSR-Timer\":\"sf20\",\n\"retxBSR-Timer\":\"sf320\",\n\"ttiBundling\":false\n},\n\"timeAlignmentTimerDedicated\":\"infinity\",\n\"phr-Config\":{\n\"setup\":{\n\"periodicPHR-Timer\":\"sf50\",\n\"prohibitPHR-Timer\":\"sf0\",\n\"dl-PathlossChange\":\"dB3\"\n}\n}\n}\n},\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":38,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":15,\n\"dsr-TransMax\":\"n64\"\n}\n}\n}\n},\n\"nextHopChainingCount\":0\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 6,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973805.1000001,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 83,
+    "asn1_length": 183,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReestablishmentComplete-r8\":{\n\"nonCriticalExtension\":{\n\"rlf-InfoAvailable-r9\":\"true\"\n}\n}\n}\n}",
+    "asn1_type": 7,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973805.102,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 83,
+    "asn1_length": 2976,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReconfiguration\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReconfiguration-r8\":{\n\"measConfig\":{\n\"measObjectToAddModList\":[\n{\n\"measObjectId\":1,\n\"measObject\":{\n\"measObjectEUTRA\":{\n\"carrierFreq\":2525,\n\"allowedMeasBandwidth\":\"mbw6\",\n\"presenceAntennaPort1\":false,\n\"neighCellConfig\":\"01\"\n}\n}\n}\n],\n\"quantityConfig\":{\n\"quantityConfigEUTRA\":{\n}\n}\n},\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":2,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"drb-ToAddModList\":[\n{\n\"eps-BearerIdentity\":5,\n\"drb-Identity\":1,\n\"pdcp-Config\":{\n\"discardTimer\":\"ms150\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms120\",\n\"pollPDU\":\"p64\",\n\"pollByte\":\"kB750\",\n\"maxRetxThreshold\":\"t16\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms50\",\n\"t-StatusProhibit\":\"ms50\"\n}\n}\n},\n\"logicalChannelIdentity\":3,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":3\n}\n}\n},\n{\n\"eps-BearerIdentity\":6,\n\"drb-Identity\":2,\n\"pdcp-Config\":{\n\"discardTimer\":\"infinity\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms80\",\n\"pollPDU\":\"p128\",\n\"pollByte\":\"kB125\",\n\"maxRetxThreshold\":\"t4\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms80\",\n\"t-StatusProhibit\":\"ms60\"\n}\n}\n},\n\"logicalChannelIdentity\":4,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":2\n}\n}\n}\n],\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":38,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":15,\n\"dsr-TransMax\":\"n64\"\n}\n},\n\"cqi-ReportConfigPCell-v1250\":{\n\"altCQI-Table-r12\":\"allSubframes\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 3,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973805.1200001,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 83,
+    "asn1_length": 117,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReconfigurationComplete-r8\":{\n}\n}\n}",
+    "asn1_type": 4,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973805.139,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rlf_report",
+  "event_data": {
+    "asn1_length": 821,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"ueInformationResponse-r9\":{\n\"rach-Report-r9\":{\n\"numberOfPreamblesSent-r16\":1,\n\"contentionDetected-r16\":false\n},\n\"rlf-Report-r9\":{\n\"measResultLastServCell-r9\":{\n\"rsrpResult-r9\":16,\n\"rsrqResult-r9\":0\n},\n\"failedPCellId-r10\":{\n\"cellGlobalId-r10\":{\n\"plmn-Identity\":{\n\"mcc\":[\n0,\n0,\n1\n],\n\"mnc\":[\n0,\n1\n]\n},\n\"cellIdentity\":\"0000000000011001101100000001\"\n}\n},\n\"reestablishmentCellId-r10\":{\n\"plmn-Identity\":{\n\"mcc\":[\n0,\n0,\n1\n],\n\"mnc\":[\n0,\n1\n]\n},\n\"cellIdentity\":\"0000000000011001101100000001\"\n},\n\"connectionFailureType-r10\":\"rlf\",\n\"basicFields-r11\":{\n\"c-RNTI-r11\":\"0000000000000000\",\n\"rlf-Cause-r11\":\"t310-Expiry\",\n\"timeSinceFailure-r11\":3\n}\n}\n}\n}\n}\n}",
+    "rnti": 83
+  }
+}
+{
   "type": "metrics",
-  "timestamp": 1737825814.193,
+  "timestamp": 1738973805.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 14,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 83,
+              "dl_cqi": 6.066667,
+              "dl_mcs": 6.116336,
+              "ul_pusch_rssi": -43.99482,
+              "ul_pucch_rssi": -15.19765,
+              "ul_pucch_ni": 121.40304,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -2.2940059,
+              "ul_snr_offset": -2.7990055,
+              "dl_bitrate": 1440297.1,
+              "dl_bler": 39.093483,
+              "ul_snr": 7.69142,
+              "ul_mcs": 19.509554,
+              "ul_bitrate": 1043427.06,
+              "ul_bler": 68.32579,
+              "ul_phr": 11.714286,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 56026,
+                    "ul_total_bytes": 75171,
+                    "dl_latency": 0.068,
+                    "ul_latency": 0.002,
+                    "dl_buffered_bytes": 3494,
+                    "ul_buffered_bytes": 804
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -1902,14 +2382,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825815.193,
+  "timestamp": 1738973806.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 14,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 83,
+              "dl_cqi": 0.1,
+              "dl_mcs": 0.0,
+              "ul_pusch_rssi": 0.0,
+              "ul_pucch_rssi": 0.0,
+              "ul_pucch_ni": 0.0,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -2.2940059,
+              "ul_snr_offset": -2.7990055,
+              "dl_bitrate": 0.0,
+              "dl_bler": 0.0,
+              "ul_snr": 0.0,
+              "ul_mcs": 0.0,
+              "ul_bitrate": 0.0,
+              "ul_bler": 0.0,
+              "ul_phr": 0.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 56026,
+                    "ul_total_bytes": 75171,
+                    "dl_latency": 0.068,
+                    "ul_latency": 0.002,
+                    "dl_buffered_bytes": 1450,
+                    "ul_buffered_bytes": 804
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -1917,14 +2445,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825816.193,
+  "timestamp": 1738973807.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 14,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 83,
+              "dl_cqi": 0.1,
+              "dl_mcs": 0.0,
+              "ul_pusch_rssi": 0.0,
+              "ul_pucch_rssi": 0.0,
+              "ul_pucch_ni": 0.0,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -2.2940059,
+              "ul_snr_offset": -2.7990055,
+              "dl_bitrate": 0.0,
+              "dl_bler": 0.0,
+              "ul_snr": 0.0,
+              "ul_mcs": 0.0,
+              "ul_bitrate": 0.0,
+              "ul_bler": 0.0,
+              "ul_phr": 0.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 56026,
+                    "ul_total_bytes": 75171,
+                    "dl_latency": 0.068,
+                    "ul_latency": 0.002,
+                    "dl_buffered_bytes": 180,
+                    "ul_buffered_bytes": 804
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -1932,14 +2508,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825817.193,
+  "timestamp": 1738973808.81,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 14,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 83,
+              "dl_cqi": 0.1,
+              "dl_mcs": 0.0,
+              "ul_pusch_rssi": 0.0,
+              "ul_pucch_rssi": 0.0,
+              "ul_pucch_ni": 0.0,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -2.2940059,
+              "ul_snr_offset": -2.7990055,
+              "dl_bitrate": 0.0,
+              "dl_bler": 0.0,
+              "ul_snr": 0.0,
+              "ul_mcs": 0.0,
+              "ul_bitrate": 0.0,
+              "ul_bler": 0.0,
+              "ul_phr": 0.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 56026,
+                    "ul_total_bytes": 75171,
+                    "dl_latency": 0.068,
+                    "ul_latency": 0.002,
+                    "dl_buffered_bytes": 3207,
+                    "ul_buffered_bytes": 804
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -1947,28 +2571,172 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825818.193,
+  "timestamp": 1738973809.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 14,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 83,
+              "dl_cqi": 11.0,
+              "dl_mcs": 0.0,
+              "ul_pusch_rssi": -58.681908,
+              "ul_pucch_rssi": -60.2006,
+              "ul_pucch_ni": 93.38243,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -2.2940059,
+              "ul_snr_offset": -4.813011,
+              "dl_bitrate": 0.0,
+              "dl_bler": 100.0,
+              "ul_snr": 0.11988278,
+              "ul_mcs": 19.113636,
+              "ul_bitrate": 0.0,
+              "ul_bler": 100.0,
+              "ul_phr": 0.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 56026,
+                    "ul_total_bytes": 75171,
+                    "dl_latency": 0.068,
+                    "ul_latency": 0.002,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 804
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
   ]
+}
+{
+  "type": "event",
+  "timestamp": 1738973810.206,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 84,
+    "asn1_length": 257,
+    "asn1_message": "{\n\"criticalExtensions\":{\n\"rrcConnectionReestablishmentRequest-r8\":{\n\"ue-Identity\":{\n\"c-RNTI\":\"0000000001010011\",\n\"physCellId\":1,\n\"shortMAC-I\":\"1001010011011110\"\n},\n\"reestablishmentCause\":\"otherFailure\",\n\"spare\":\"00\"\n}\n}\n}",
+    "asn1_type": 5,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973810.206,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 84,
+    "asn1_length": 1676,
+    "asn1_message": "[\n{\n\"DL-CCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReestablishment\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReestablishment-r8\":{\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":1,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"mac-MainConfig\":{\n\"explicitValue\":{\n\"ul-SCH-Config\":{\n\"maxHARQ-Tx\":\"n4\",\n\"periodicBSR-Timer\":\"sf20\",\n\"retxBSR-Timer\":\"sf320\",\n\"ttiBundling\":false\n},\n\"timeAlignmentTimerDedicated\":\"infinity\",\n\"phr-Config\":{\n\"setup\":{\n\"periodicPHR-Timer\":\"sf50\",\n\"prohibitPHR-Timer\":\"sf0\",\n\"dl-PathlossChange\":\"dB3\"\n}\n}\n}\n},\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":40,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":17,\n\"dsr-TransMax\":\"n64\"\n}\n}\n}\n},\n\"nextHopChainingCount\":0\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 6,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973810.244,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 84,
+    "asn1_length": 117,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReestablishmentComplete-r8\":{\n}\n}\n}",
+    "asn1_type": 7,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973810.246,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 84,
+    "asn1_length": 2976,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReconfiguration\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReconfiguration-r8\":{\n\"measConfig\":{\n\"measObjectToAddModList\":[\n{\n\"measObjectId\":1,\n\"measObject\":{\n\"measObjectEUTRA\":{\n\"carrierFreq\":2525,\n\"allowedMeasBandwidth\":\"mbw6\",\n\"presenceAntennaPort1\":false,\n\"neighCellConfig\":\"01\"\n}\n}\n}\n],\n\"quantityConfig\":{\n\"quantityConfigEUTRA\":{\n}\n}\n},\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":2,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"drb-ToAddModList\":[\n{\n\"eps-BearerIdentity\":5,\n\"drb-Identity\":1,\n\"pdcp-Config\":{\n\"discardTimer\":\"ms150\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms120\",\n\"pollPDU\":\"p64\",\n\"pollByte\":\"kB750\",\n\"maxRetxThreshold\":\"t16\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms50\",\n\"t-StatusProhibit\":\"ms50\"\n}\n}\n},\n\"logicalChannelIdentity\":3,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":3\n}\n}\n},\n{\n\"eps-BearerIdentity\":6,\n\"drb-Identity\":2,\n\"pdcp-Config\":{\n\"discardTimer\":\"infinity\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms80\",\n\"pollPDU\":\"p128\",\n\"pollByte\":\"kB125\",\n\"maxRetxThreshold\":\"t4\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms80\",\n\"t-StatusProhibit\":\"ms60\"\n}\n}\n},\n\"logicalChannelIdentity\":4,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":2\n}\n}\n}\n],\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":40,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":17,\n\"dsr-TransMax\":\"n64\"\n}\n},\n\"cqi-ReportConfigPCell-v1250\":{\n\"altCQI-Table-r12\":\"allSubframes\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 3,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973810.264,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 84,
+    "asn1_length": 117,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReconfigurationComplete-r8\":{\n}\n}\n}",
+    "asn1_type": 4,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973810.3240001,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "s1_context_delete",
+  "event_data": {
+    "mme_ue_s1ap_id": 11,
+    "enb_ue_s1ap_id": 6,
+    "rnti": 84
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973810.3240001,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 84,
+    "asn1_length": 236,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionRelease\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionRelease-r8\":{\n\"releaseCause\":\"other\"\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 10,
+    "additional": 0
+  }
 }
 {
   "type": "metrics",
-  "timestamp": 1737825819.193,
+  "timestamp": 1738973810.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 15,
         "ue_list": [
         ]
       }
@@ -1977,13 +2745,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825820.193,
+  "timestamp": 1738973811.81,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 15,
         "ue_list": [
         ]
       }
@@ -1992,13 +2760,13 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825821.193,
+  "timestamp": 1738973812.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 15,
         "ue_list": [
         ]
       }
@@ -2006,30 +2774,224 @@
   ]
 }
 {
+  "type": "event",
+  "timestamp": 1738973813.546,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 85,
+    "asn1_length": 212,
+    "asn1_message": "{\n\"criticalExtensions\":{\n\"rrcConnectionRequest-r8\":{\n\"ue-Identity\":{\n\"randomValue\":\"0011001100101000011101011111010000110111\"\n},\n\"establishmentCause\":\"mo-Signalling\",\n\"spare\":\"0\"\n}\n}\n}",
+    "asn1_type": 0,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973813.546,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 85,
+    "asn1_length": 1627,
+    "asn1_message": "[\n{\n\"DL-CCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionSetup\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetup-r8\":{\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":1,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"mac-MainConfig\":{\n\"explicitValue\":{\n\"ul-SCH-Config\":{\n\"maxHARQ-Tx\":\"n4\",\n\"periodicBSR-Timer\":\"sf20\",\n\"retxBSR-Timer\":\"sf320\",\n\"ttiBundling\":false\n},\n\"timeAlignmentTimerDedicated\":\"infinity\",\n\"phr-Config\":{\n\"setup\":{\n\"periodicPHR-Timer\":\"sf50\",\n\"prohibitPHR-Timer\":\"sf0\",\n\"dl-PathlossChange\":\"dB3\"\n}\n}\n}\n},\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":38,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":15,\n\"dsr-TransMax\":\"n64\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 1,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973813.602,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 85,
+    "asn1_length": 573,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionSetupComplete-r8\":{\n\"selectedPLMN-Identity\":1,\n\"registeredMME\":{\n\"mmegi\":\"0000000000000010\",\n\"mmec\":\"00000001\"\n},\n\"dedicatedInfoNAS\":\"17b1376fd3080741020bf600f110000201c00004b407f0f00000188030002c0201d011d127248080211001000010810600000000830600000000000d00000a00000500001000001a0105c05200f11000015c10041300f110000111034f18245d0103e0c1100275006f04f000f000\",\n\"nonCriticalExtension\":{\n\"nonCriticalExtension\":{\n\"gummei-Type-r10\":\"native\"\n}\n}\n}\n}\n}\n}",
+    "asn1_type": 2,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973813.742,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 85,
+    "asn1_length": 2583,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReconfiguration\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReconfiguration-r8\":{\n\"measConfig\":{\n\"measObjectToAddModList\":[\n{\n\"measObjectId\":1,\n\"measObject\":{\n\"measObjectEUTRA\":{\n\"carrierFreq\":2525,\n\"allowedMeasBandwidth\":\"mbw6\",\n\"presenceAntennaPort1\":false,\n\"neighCellConfig\":\"01\"\n}\n}\n}\n],\n\"quantityConfig\":{\n\"quantityConfigEUTRA\":{\n}\n}\n},\n\"dedicatedInfoNASList\":[\n\"2788b9619e0607420229064000f110000100465201c101090908696e7465726e65740501c0a8640b5e06fefefafa020227278080211002000010810608080808830608080404000d0408080808000d040808040400100205aa1300f11000012305f46a46c3c764020108\"\n],\n\"radioResourceConfigDedicated\":{\n\"srb-ToAddModList\":[\n{\n\"srb-Identity\":2,\n\"rlc-Config\":{\n},\n\"logicalChannelConfig\":{\n}\n}\n],\n\"drb-ToAddModList\":[\n{\n\"eps-BearerIdentity\":5,\n\"drb-Identity\":1,\n\"pdcp-Config\":{\n\"discardTimer\":\"ms150\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms120\",\n\"pollPDU\":\"p64\",\n\"pollByte\":\"kB750\",\n\"maxRetxThreshold\":\"t16\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms50\",\n\"t-StatusProhibit\":\"ms50\"\n}\n}\n},\n\"logicalChannelIdentity\":3,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":3\n}\n}\n}\n],\n\"physicalConfigDedicated\":{\n\"pdsch-ConfigDedicated\":{\n\"p-a\":\"dB0\"\n},\n\"pucch-ConfigDedicated\":{\n\"ackNackRepetition\":{\n}\n},\n\"pusch-ConfigDedicated\":{\n\"betaOffset-ACK-Index\":6,\n\"betaOffset-RI-Index\":6,\n\"betaOffset-CQI-Index\":6\n},\n\"uplinkPowerControlDedicated\":{\n\"p0-UE-PUSCH\":0,\n\"deltaMCS-Enabled\":\"en0\",\n\"accumulationEnabled\":true,\n\"p0-UE-PUCCH\":0,\n\"pSRS-Offset\":3\n},\n\"cqi-ReportConfig\":{\n\"nomPDSCH-RS-EPRE-Offset\":0,\n\"cqi-ReportPeriodic\":{\n\"setup\":{\n\"cqi-PUCCH-ResourceIndex\":0,\n\"cqi-pmi-ConfigIndex\":38,\n\"cqi-FormatIndicatorPeriodic\":{\n},\n\"simultaneousAckNackAndCQI\":true\n}\n}\n},\n\"antennaInfo\":{\n\"explicitValue\":{\n\"transmissionMode\":\"tm1\",\n\"ue-TransmitAntennaSelection\":{\n}\n}\n},\n\"schedulingRequestConfig\":{\n\"setup\":{\n\"sr-PUCCH-ResourceIndex\":0,\n\"sr-ConfigIndex\":15,\n\"dsr-TransMax\":\"n64\"\n}\n},\n\"cqi-ReportConfigPCell-v1250\":{\n\"altCQI-Table-r12\":\"allSubframes\"\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 3,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973813.765,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 85,
+    "asn1_length": 117,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReconfigurationComplete-r8\":{\n}\n}\n}",
+    "asn1_type": 4,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973813.765,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "s1_context_create",
+  "event_data": {
+    "mme_ue_s1ap_id": 12,
+    "enb_ue_s1ap_id": 7,
+    "rnti": 85
+  }
+}
+{
   "type": "metrics",
-  "timestamp": 1737825822.193,
+  "timestamp": 1738973813.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.7142856,
+              "dl_mcs": 1.7428571,
+              "ul_pusch_rssi": -27.648819,
+              "ul_pucch_rssi": -18.892765,
+              "ul_pucch_ni": 108.422104,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.0059999973,
+              "ul_snr_offset": -0.029999997,
+              "dl_bitrate": 9197.08,
+              "dl_bler": 7.142857,
+              "ul_snr": 23.01096,
+              "ul_mcs": 15.782609,
+              "ul_bitrate": 200408.75,
+              "ul_bler": 20.0,
+              "ul_phr": 15.5,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
   ]
+}
+{
+  "type": "event",
+  "timestamp": 1738973814.111,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 85,
+    "asn1_length": 1198,
+    "asn1_message": "[\n{\n\"DL-DCCH-Message\":{\n\"message\":{\n\"c1\":{\n\"rrcConnectionReconfiguration\":{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"c1\":{\n\"rrcConnectionReconfiguration-r8\":{\n\"dedicatedInfoNASList\":[\n\"27f60e2a1d086202c101050403696d730501c0a865035e02ae8e583227548080211002000010810608080808830608080404000c04ac160015000d0408080808000d0408080404000310200148604860000000000000000088880003102001486048600000000000000000884400100205aa\"\n],\n\"radioResourceConfigDedicated\":{\n\"drb-ToAddModList\":[\n{\n\"eps-BearerIdentity\":6,\n\"drb-Identity\":2,\n\"pdcp-Config\":{\n\"discardTimer\":\"infinity\",\n\"rlc-AM\":{\n\"statusReportRequired\":true\n},\n\"headerCompression\":{\n}\n},\n\"rlc-Config\":{\n\"am\":{\n\"ul-AM-RLC\":{\n\"t-PollRetransmit\":\"ms80\",\n\"pollPDU\":\"p128\",\n\"pollByte\":\"kB125\",\n\"maxRetxThreshold\":\"t4\"\n},\n\"dl-AM-RLC\":{\n\"t-Reordering\":\"ms80\",\n\"t-StatusProhibit\":\"ms60\"\n}\n}\n},\n\"logicalChannelIdentity\":4,\n\"logicalChannelConfig\":{\n\"ul-SpecificParameters\":{\n\"priority\":11,\n\"prioritisedBitRate\":\"infinity\",\n\"bucketSizeDuration\":\"ms100\",\n\"logicalChannelGroup\":2\n}\n}\n}\n]\n}\n}\n}\n}\n}\n}\n}\n}\n}\n]",
+    "asn1_type": 3,
+    "additional": 0
+  }
+}
+{
+  "type": "event",
+  "timestamp": 1738973814.142,
+  "carrier_id": 0,
+  "cell_id": 1,
+  "event_name": "rrc_log",
+  "event_data": {
+    "rnti": 85,
+    "asn1_length": 117,
+    "asn1_message": "{\n\"rrc-TransactionIdentifier\":0,\n\"criticalExtensions\":{\n\"rrcConnectionReconfigurationComplete-r8\":{\n}\n}\n}",
+    "asn1_type": 4,
+    "additional": 0
+  }
 }
 {
   "type": "metrics",
-  "timestamp": 1737825823.193,
+  "timestamp": 1738973814.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 2.9199998,
+              "dl_mcs": 2.6304343,
+              "ul_pusch_rssi": -28.236732,
+              "ul_pucch_rssi": -19.891134,
+              "ul_pucch_ni": 100.48759,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.46400058,
+              "ul_snr_offset": -0.22599988,
+              "dl_bitrate": 356264.0,
+              "dl_bler": 21.12676,
+              "ul_snr": 26.555536,
+              "ul_mcs": 22.32484,
+              "ul_bitrate": 427800.0,
+              "ul_bler": 20.3125,
+              "ul_phr": 16.583334,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 41704,
+                    "ul_total_bytes": 27420,
+                    "dl_latency": 0.044,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 928,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2037,14 +2999,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825824.193,
+  "timestamp": 1738973815.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.0,
+              "dl_mcs": 2.5939791,
+              "ul_pusch_rssi": -28.076525,
+              "ul_pucch_rssi": -20.63958,
+              "ul_pucch_ni": 99.43027,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -1.0020014,
+              "ul_snr_offset": -0.38900015,
+              "dl_bitrate": 2224888.0,
+              "dl_bler": 9.786477,
+              "ul_snr": 27.753763,
+              "ul_mcs": 22.27155,
+              "ul_bitrate": 576008.0,
+              "ul_bler": 13.402061,
+              "ul_phr": 16.411762,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 162801,
+                    "ul_total_bytes": 66981,
+                    "dl_latency": 0.063,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 37806,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2052,14 +3062,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825825.193,
+  "timestamp": 1738973816.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.0,
+              "dl_mcs": 2.5049815,
+              "ul_pusch_rssi": -28.164408,
+              "ul_pucch_rssi": -20.934603,
+              "ul_pucch_ni": 98.9175,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.9380012,
+              "ul_snr_offset": -0.5770011,
+              "dl_bitrate": 2609648.0,
+              "dl_bler": 4.5031056,
+              "ul_snr": 27.583782,
+              "ul_mcs": 22.46053,
+              "ul_bitrate": 618192.0,
+              "ul_bler": 15.217391,
+              "ul_phr": 16.470589,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 357372,
+                    "ul_total_bytes": 111854,
+                    "dl_latency": 0.069,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 80662,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2067,14 +3125,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825826.193,
+  "timestamp": 1738973817.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.0,
+              "dl_mcs": 1.6759691,
+              "ul_pusch_rssi": -29.524628,
+              "ul_pucch_rssi": -20.32997,
+              "ul_pucch_ni": 100.30043,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -1.0089817,
+              "ul_snr_offset": -1.3619999,
+              "dl_bitrate": 2297184.0,
+              "dl_bler": 5.449937,
+              "ul_snr": 22.607788,
+              "ul_mcs": 21.59726,
+              "ul_bitrate": 1271192.0,
+              "ul_bler": 30.32258,
+              "ul_phr": 14.3125,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 527355,
+                    "ul_total_bytes": 195203,
+                    "dl_latency": 0.075,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 3754,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2082,14 +3188,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825827.193,
+  "timestamp": 1738973818.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.0,
+              "dl_mcs": 1.426426,
+              "ul_pusch_rssi": -28.757408,
+              "ul_pucch_rssi": -21.240107,
+              "ul_pucch_ni": 99.48928,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.99595624,
+              "ul_snr_offset": -1.7149963,
+              "dl_bitrate": 1982720.0,
+              "dl_bler": 4.9180326,
+              "ul_snr": 25.75188,
+              "ul_mcs": 21.990294,
+              "ul_bitrate": 934264.0,
+              "ul_bler": 18.897638,
+              "ul_phr": 15.058824,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 633052,
+                    "ul_total_bytes": 262537,
+                    "dl_latency": 0.075,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 49132,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2097,14 +3251,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825828.193,
+  "timestamp": 1738973819.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.0800002,
+              "dl_mcs": 2.6760085,
+              "ul_pusch_rssi": -29.281271,
+              "ul_pucch_rssi": -22.253397,
+              "ul_pucch_ni": 98.19369,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.9939528,
+              "ul_snr_offset": -1.9549925,
+              "dl_bitrate": 4056920.0,
+              "dl_bler": 4.989384,
+              "ul_snr": 26.615772,
+              "ul_mcs": 22.065968,
+              "ul_bitrate": 916336.0,
+              "ul_bler": 15.0,
+              "ul_phr": 16.529411,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 957025,
+                    "ul_total_bytes": 335916,
+                    "dl_latency": 0.084,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 110655,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2112,14 +3314,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825829.193,
+  "timestamp": 1738973820.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.0,
+              "dl_mcs": 2.9896417,
+              "ul_pusch_rssi": -28.10766,
+              "ul_pucch_rssi": -21.303196,
+              "ul_pucch_ni": 98.51276,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.11696258,
+              "ul_snr_offset": -2.079998,
+              "dl_bitrate": 4804720.0,
+              "dl_bler": 0.32017076,
+              "ul_snr": 28.12549,
+              "ul_mcs": 22.175968,
+              "ul_bitrate": 577656.0,
+              "ul_bler": 11.578947,
+              "ul_phr": 17.222221,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 1388846,
+                    "ul_total_bytes": 376108,
+                    "dl_latency": 0.088,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 62520,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2127,14 +3377,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825830.193,
+  "timestamp": 1738973821.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.0,
+              "dl_mcs": 3.2033467,
+              "ul_pusch_rssi": -27.915306,
+              "ul_pucch_rssi": -22.034235,
+              "ul_pucch_ni": 97.307236,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.25996214,
+              "ul_snr_offset": -2.076004,
+              "dl_bitrate": 4708344.0,
+              "dl_bler": 5.7630734,
+              "ul_snr": 29.512173,
+              "ul_mcs": 22.292456,
+              "ul_bitrate": 457040.0,
+              "ul_bler": 4.7619047,
+              "ul_phr": 17.764706,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 1778497,
+                    "ul_total_bytes": 406925,
+                    "dl_latency": 0.092,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 123192,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2142,14 +3440,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825831.193,
+  "timestamp": 1738973822.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.0,
+              "dl_mcs": 2.3162653,
+              "ul_pusch_rssi": -28.318247,
+              "ul_pucch_rssi": -21.60143,
+              "ul_pucch_ni": 97.84365,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.71295476,
+              "ul_snr_offset": -2.2880116,
+              "dl_bitrate": 3490960.0,
+              "dl_bler": 7.4433656,
+              "ul_snr": 26.718487,
+              "ul_mcs": 21.39535,
+              "ul_bitrate": 667528.0,
+              "ul_bler": 14.814815,
+              "ul_phr": 17.764706,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 1903355,
+                    "ul_total_bytes": 457497,
+                    "dl_latency": 0.093,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 133337,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2157,14 +3503,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825832.193,
+  "timestamp": 1738973823.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.04,
+              "dl_mcs": 3.0701923,
+              "ul_pusch_rssi": -26.072645,
+              "ul_pucch_rssi": -18.911772,
+              "ul_pucch_ni": 100.60611,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.36996514,
+              "ul_snr_offset": -2.2630177,
+              "dl_bitrate": 4189480.0,
+              "dl_bler": 2.965599,
+              "ul_snr": 29.556807,
+              "ul_mcs": 21.738916,
+              "ul_bitrate": 391776.0,
+              "ul_bler": 3.5294118,
+              "ul_phr": 17.294117,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 2224221,
+                    "ul_total_bytes": 484532,
+                    "dl_latency": 0.089,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 34609,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2172,14 +3566,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825833.193,
+  "timestamp": 1738973824.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.0,
+              "dl_mcs": 3.148865,
+              "ul_pusch_rssi": -27.093452,
+              "ul_pucch_rssi": -19.109056,
+              "ul_pucch_ni": 100.2454,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.038966022,
+              "ul_snr_offset": -2.407023,
+              "dl_bitrate": 4346864.0,
+              "dl_bler": 3.0552292,
+              "ul_snr": 27.33464,
+              "ul_mcs": 21.656565,
+              "ul_bitrate": 432736.0,
+              "ul_bler": 14.473684,
+              "ul_phr": 17.800001,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 2785939,
+                    "ul_total_bytes": 512606,
+                    "dl_latency": 0.087,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2187,14 +3629,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825834.193,
+  "timestamp": 1738973825.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.0,
+              "dl_mcs": 2.7216494,
+              "ul_pusch_rssi": -26.576864,
+              "ul_pucch_rssi": -20.261337,
+              "ul_pucch_ni": 98.70307,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.24096595,
+              "ul_snr_offset": -2.4010234,
+              "dl_bitrate": 108416.0,
+              "dl_bler": 31.578947,
+              "ul_snr": 30.949057,
+              "ul_mcs": 22.0,
+              "ul_bitrate": 24816.0,
+              "ul_bler": 0.0,
+              "ul_phr": 19.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 2799263,
+                    "ul_total_bytes": 513378,
+                    "dl_latency": 0.087,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2202,14 +3692,62 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825835.193,
+  "timestamp": 1738973826.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.0800002,
+              "dl_mcs": 1.1818181,
+              "ul_pusch_rssi": -28.886217,
+              "ul_pucch_rssi": -21.313671,
+              "ul_pucch_ni": 100.48703,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.23696594,
+              "ul_snr_offset": -2.431024,
+              "dl_bitrate": 5312.0,
+              "dl_bler": 0.0,
+              "ul_snr": 23.963623,
+              "ul_mcs": 22.086956,
+              "ul_bitrate": 73728.0,
+              "ul_bler": 20.0,
+              "ul_phr": 16.0,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 2799866,
+                    "ul_total_bytes": 519431,
+                    "dl_latency": 0.087,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
@@ -2217,15 +3755,64 @@
 }
 {
   "type": "metrics",
-  "timestamp": 1737825836.193,
+  "timestamp": 1738973827.809,
   "cell_list": [
     {
       "cell_container": {
         "carrier_id": 0,
         "pci": 1,
-        "nof_rach": 0,
+        "nof_rach": 16,
         "ue_list": [
+          {
+            "ue_container": {
+              "ue_rnti": 85,
+              "dl_cqi": 3.1599998,
+              "dl_mcs": 3.7066674,
+              "ul_pusch_rssi": -33.38976,
+              "ul_pucch_rssi": -24.45158,
+              "ul_pucch_ni": 98.16924,
+              "ul_pusch_tpc": 0,
+              "ul_pucch_tpc": 0,
+              "dl_cqi_offset": -0.7589668,
+              "ul_snr_offset": -2.4860287,
+              "dl_bitrate": 332448.0,
+              "dl_bler": 27.118645,
+              "ul_snr": 22.693113,
+              "ul_mcs": 20.006329,
+              "ul_bitrate": 578280.0,
+              "ul_bler": 9.230769,
+              "ul_phr": 18.999998,
+              "ul_bsr": 0,
+              "bearer_list": [
+                {
+                  "bearer_container": {
+                    "bearer_id": 3,
+                    "qci": 9,
+                    "dl_total_bytes": 2839943,
+                    "ul_total_bytes": 555381,
+                    "dl_latency": 0.086,
+                    "ul_latency": 0.001,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                },
+                {
+                  "bearer_container": {
+                    "bearer_id": 4,
+                    "qci": 5,
+                    "dl_total_bytes": 0,
+                    "ul_total_bytes": 0,
+                    "dl_latency": 0.0,
+                    "ul_latency": 0.0,
+                    "dl_buffered_bytes": 0,
+                    "ul_buffered_bytes": 0
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     }
-  
+  ]
+}

@@ -672,6 +672,312 @@ function pyhss_configuration() {
                 \"misc3\": \"string\",
                 \"misc4\": \"string\"
             }"
+        auc_id=11
+        ki="41AD3D561088759B78DEBD8220626216"
+        opc="8D70266747CB9F224393D9F7362481E6"
+        iccid="8949440000001144511"
+        imsi="001010000010011"
+        curl -X 'PUT' \
+            "$BASE_URL/auc/" \
+            -H 'accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -d "{
+                \"auc_id\": $auc_id,
+                \"ki\": \"$ki\",
+                \"opc\": \"$opc\",
+                \"amf\": \"8000\",
+                \"sqn\": 0,
+                \"iccid\": \"$iccid\",
+                \"imsi\": \"$imsi\",
+                \"batch_name\": \"string\",
+                \"sim_vendor\": \"string\",
+                \"esim\": true,
+                \"lpa\": \"string\",
+                \"pin1\": \"string\",
+                \"pin2\": \"string\",
+                \"puk1\": \"string\",
+                \"puk2\": \"string\",
+                \"kid\": \"string\",
+                \"psk\": \"string\",
+                \"des\": \"string\",
+                \"adm1\": \"string\",
+                \"misc1\": \"string\",
+                \"misc2\": \"string\",
+                \"misc3\": \"string\",
+                \"misc4\": \"string\"
+            }"
+        auc_id=12
+        ki="A5CC3E6774BDD4E802EA4FA0452754A8"
+        opc="676D3E9F15070155C4E42DDD33D9ED70"
+        iccid="8949440000001144512"
+        imsi="001010000010012"
+        curl -X 'PUT' \
+            "$BASE_URL/auc/" \
+            -H 'accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -d "{
+                \"auc_id\": $auc_id,
+                \"ki\": \"$ki\",
+                \"opc\": \"$opc\",
+                \"amf\": \"8000\",
+                \"sqn\": 0,
+                \"iccid\": \"$iccid\",
+                \"imsi\": \"$imsi\",
+                \"batch_name\": \"string\",
+                \"sim_vendor\": \"string\",
+                \"esim\": true,
+                \"lpa\": \"string\",
+                \"pin1\": \"string\",
+                \"pin2\": \"string\",
+                \"puk1\": \"string\",
+                \"puk2\": \"string\",
+                \"kid\": \"string\",
+                \"psk\": \"string\",
+                \"des\": \"string\",
+                \"adm1\": \"string\",
+                \"misc1\": \"string\",
+                \"misc2\": \"string\",
+                \"misc3\": \"string\",
+                \"misc4\": \"string\"
+            }"
+        auc_id=13
+        ki="153FDCD0D2B23D76D20571C7EE34A8F6"
+        opc="F99EE5821A6BDF2D03F8423FDED97B12"
+        iccid="8949440000001144113"
+        imsi="001010000010013"
+        curl -X 'PUT' \
+            "$BASE_URL/auc/" \
+            -H 'accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -d "{
+                \"auc_id\": $auc_id,
+                \"ki\": \"$ki\",
+                \"opc\": \"$opc\",
+                \"amf\": \"8000\",
+                \"sqn\": 0,
+                \"iccid\": \"$iccid\",
+                \"imsi\": \"$imsi\",
+                \"batch_name\": \"string\",
+                \"sim_vendor\": \"string\",
+                \"esim\": true,
+                \"lpa\": \"string\",
+                \"pin1\": \"string\",
+                \"pin2\": \"string\",
+                \"puk1\": \"string\",
+                \"puk2\": \"string\",
+                \"kid\": \"string\",
+                \"psk\": \"string\",
+                \"des\": \"string\",
+                \"adm1\": \"string\",
+                \"misc1\": \"string\",
+                \"misc2\": \"string\",
+                \"misc3\": \"string\",
+                \"misc4\": \"string\"
+            }"
+        auc_id=14
+        ki="ABD83D51C7DC5182AC5AAAD89A22D7E2"
+        opc="67F145874D0963F5B290EED388F50477"
+        iccid="8949440000001144514"
+        imsi="001010000010014"
+        curl -X 'PUT' \
+            "$BASE_URL/auc/" \
+            -H 'accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -d "{
+                \"auc_id\": $auc_id,
+                \"ki\": \"$ki\",
+                \"opc\": \"$opc\",
+                \"amf\": \"8000\",
+                \"sqn\": 0,
+                \"iccid\": \"$iccid\",
+                \"imsi\": \"$imsi\",
+                \"batch_name\": \"string\",
+                \"sim_vendor\": \"string\",
+                \"esim\": true,
+                \"lpa\": \"string\",
+                \"pin1\": \"string\",
+                \"pin2\": \"string\",
+                \"puk1\": \"string\",
+                \"puk2\": \"string\",
+                \"kid\": \"string\",
+                \"psk\": \"string\",
+                \"des\": \"string\",
+                \"adm1\": \"string\",
+                \"misc1\": \"string\",
+                \"misc2\": \"string\",
+                \"misc3\": \"string\",
+                \"misc4\": \"string\"
+            }"
+        auc_id=15
+        ki="217887AF2FDCB35734DB6628FA3DCDD5"
+        opc="F80584C131FC8BBD90D3C9F3A4A24BDB"
+        iccid="8949440000001144515"
+        imsi="001010000010015"
+        curl -X 'PUT' \
+            "$BASE_URL/auc/" \
+            -H 'accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -d "{
+                \"auc_id\": $auc_id,
+                \"ki\": \"$ki\",
+                \"opc\": \"$opc\",
+                \"amf\": \"8000\",
+                \"sqn\": 0,
+                \"iccid\": \"$iccid\",
+                \"imsi\": \"$imsi\",
+                \"batch_name\": \"string\",
+                \"sim_vendor\": \"string\",
+                \"esim\": true,
+                \"lpa\": \"string\",
+                \"pin1\": \"string\",
+                \"pin2\": \"string\",
+                \"puk1\": \"string\",
+                \"puk2\": \"string\",
+                \"kid\": \"string\",
+                \"psk\": \"string\",
+                \"des\": \"string\",
+                \"adm1\": \"string\",
+                \"misc1\": \"string\",
+                \"misc2\": \"string\",
+                \"misc3\": \"string\",
+                \"misc4\": \"string\"
+            }"
+        auc_id=16
+        ki="5782334C5059954EDDB157C86139B325"
+        opc="353119E18B5971955FC8E2873FAA0835"
+        iccid="8949440000001144516"
+        imsi="001010000010016"
+        curl -X 'PUT' \
+            "$BASE_URL/auc/" \
+            -H 'accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -d "{
+                \"auc_id\": $auc_id,
+                \"ki\": \"$ki\",
+                \"opc\": \"$opc\",
+                \"amf\": \"8000\",
+                \"sqn\": 0,
+                \"iccid\": \"$iccid\",
+                \"imsi\": \"$imsi\",
+                \"batch_name\": \"string\",
+                \"sim_vendor\": \"string\",
+                \"esim\": true,
+                \"lpa\": \"string\",
+                \"pin1\": \"string\",
+                \"pin2\": \"string\",
+                \"puk1\": \"string\",
+                \"puk2\": \"string\",
+                \"kid\": \"string\",
+                \"psk\": \"string\",
+                \"des\": \"string\",
+                \"adm1\": \"string\",
+                \"misc1\": \"string\",
+                \"misc2\": \"string\",
+                \"misc3\": \"string\",
+                \"misc4\": \"string\"
+            }"
+        auc_id=17
+        ki="F4B77CEACCC01188F92D1FCFF358BEF5"
+        opc="77780389095D7EF1CBF37AB6794EBF03"
+        iccid="8949440000001144517"
+        imsi="001010000010017"
+        curl -X 'PUT' \
+            "$BASE_URL/auc/" \
+            -H 'accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -d "{
+                \"auc_id\": $auc_id,
+                \"ki\": \"$ki\",
+                \"opc\": \"$opc\",
+                \"amf\": \"8000\",
+                \"sqn\": 0,
+                \"iccid\": \"$iccid\",
+                \"imsi\": \"$imsi\",
+                \"batch_name\": \"string\",
+                \"sim_vendor\": \"string\",
+                \"esim\": true,
+                \"lpa\": \"string\",
+                \"pin1\": \"string\",
+                \"pin2\": \"string\",
+                \"puk1\": \"string\",
+                \"puk2\": \"string\",
+                \"kid\": \"string\",
+                \"psk\": \"string\",
+                \"des\": \"string\",
+                \"adm1\": \"string\",
+                \"misc1\": \"string\",
+                \"misc2\": \"string\",
+                \"misc3\": \"string\",
+                \"misc4\": \"string\"
+            }"
+        auc_id=18
+        ki="77650A7B48355E955D2D8BC955D5E11F"
+        opc="4AFF29F4CAF17423DB76C6BEE2B322A6"
+        iccid="8949440000001144518"
+        imsi="001010000010018"
+        curl -X 'PUT' \
+            "$BASE_URL/auc/" \
+            -H 'accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -d "{
+                \"auc_id\": $auc_id,
+                \"ki\": \"$ki\",
+                \"opc\": \"$opc\",
+                \"amf\": \"8000\",
+                \"sqn\": 0,
+                \"iccid\": \"$iccid\",
+                \"imsi\": \"$imsi\",
+                \"batch_name\": \"string\",
+                \"sim_vendor\": \"string\",
+                \"esim\": true,
+                \"lpa\": \"string\",
+                \"pin1\": \"string\",
+                \"pin2\": \"string\",
+                \"puk1\": \"string\",
+                \"puk2\": \"string\",
+                \"kid\": \"string\",
+                \"psk\": \"string\",
+                \"des\": \"string\",
+                \"adm1\": \"string\",
+                \"misc1\": \"string\",
+                \"misc2\": \"string\",
+                \"misc3\": \"string\",
+                \"misc4\": \"string\"
+            }"
+        auc_id=19
+        ki="186C9DA2465033744EB121C5D686A014"
+        opc="035B10D8F2F83DEA4B53B039DB4E0A6F"
+        iccid="8949440000001144519"
+        imsi="001010000010019"
+        curl -X 'PUT' \
+            "$BASE_URL/auc/" \
+            -H 'accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -d "{
+                \"auc_id\": $auc_id,
+                \"ki\": \"$ki\",
+                \"opc\": \"$opc\",
+                \"amf\": \"8000\",
+                \"sqn\": 0,
+                \"iccid\": \"$iccid\",
+                \"imsi\": \"$imsi\",
+                \"batch_name\": \"string\",
+                \"sim_vendor\": \"string\",
+                \"esim\": true,
+                \"lpa\": \"string\",
+                \"pin1\": \"string\",
+                \"pin2\": \"string\",
+                \"puk1\": \"string\",
+                \"puk2\": \"string\",
+                \"kid\": \"string\",
+                \"psk\": \"string\",
+                \"des\": \"string\",
+                \"adm1\": \"string\",
+                \"misc1\": \"string\",
+                \"misc2\": \"string\",
+                \"misc3\": \"string\",
+                \"misc4\": \"string\"
+            }"
     # Load and configure subscribers
     curl -X 'PUT' \
         "$BASE_URL/subscriber/" \
@@ -909,6 +1215,222 @@ function pyhss_configuration() {
             "msisdn": "10010",
             "serving_mme_timestamp": null,
             "subscriber_id": 10,
+            "ue_ambr_dl": 0,
+            "serving_mme_realm": null,
+            "ue_ambr_ul": 0
+        }'
+            curl -X 'PUT' \
+        "$BASE_URL/subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "imsi": "001010000010011", 
+            "nam": 0,   
+            "serving_mme_peer": null,
+            "enabled": true,
+            "roaming_enabled": true,
+            "last_modified": "2024-09-22T01:16:40Z",
+            "auc_id": 11,
+            "roaming_rule_list": null,
+            "default_apn": 1,
+            "subscribed_rau_tau_timer": 300,
+            "apn_list": "1,2",
+            "serving_mme": null,
+            "msisdn": "10011",
+            "serving_mme_timestamp": null,
+            "subscriber_id": 11,
+            "ue_ambr_dl": 0,
+            "serving_mme_realm": null,
+            "ue_ambr_ul": 0
+        }'
+            curl -X 'PUT' \
+        "$BASE_URL/subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "imsi": "001010000010012", 
+            "nam": 0,   
+            "serving_mme_peer": null,
+            "enabled": true,
+            "roaming_enabled": true,
+            "last_modified": "2024-09-22T01:16:40Z",
+            "auc_id": 12,
+            "roaming_rule_list": null,
+            "default_apn": 1,
+            "subscribed_rau_tau_timer": 300,
+            "apn_list": "1,2",
+            "serving_mme": null,
+            "msisdn": "10012",
+            "serving_mme_timestamp": null,
+            "subscriber_id": 12,
+            "ue_ambr_dl": 0,
+            "serving_mme_realm": null,
+            "ue_ambr_ul": 0
+        }'
+            curl -X 'PUT' \
+        "$BASE_URL/subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "imsi": "001010000010013", 
+            "nam": 0,   
+            "serving_mme_peer": null,
+            "enabled": true,
+            "roaming_enabled": true,
+            "last_modified": "2024-09-22T01:16:40Z",
+            "auc_id": 13,
+            "roaming_rule_list": null,
+            "default_apn": 1,
+            "subscribed_rau_tau_timer": 300,
+            "apn_list": "1,2",
+            "serving_mme": null,
+            "msisdn": "10013",
+            "serving_mme_timestamp": null,
+            "subscriber_id": 13,
+            "ue_ambr_dl": 0,
+            "serving_mme_realm": null,
+            "ue_ambr_ul": 0
+        }'
+            curl -X 'PUT' \
+        "$BASE_URL/subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "imsi": "001010000010014", 
+            "nam": 0,   
+            "serving_mme_peer": null,
+            "enabled": true,
+            "roaming_enabled": true,
+            "last_modified": "2024-09-22T01:16:40Z",
+            "auc_id": 14,
+            "roaming_rule_list": null,
+            "default_apn": 1,
+            "subscribed_rau_tau_timer": 300,
+            "apn_list": "1,2",
+            "serving_mme": null,
+            "msisdn": "10014",
+            "serving_mme_timestamp": null,
+            "subscriber_id": 14,
+            "ue_ambr_dl": 0,
+            "serving_mme_realm": null,
+            "ue_ambr_ul": 0
+        }'
+            curl -X 'PUT' \
+        "$BASE_URL/subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "imsi": "001010000010015", 
+            "nam": 0,   
+            "serving_mme_peer": null,
+            "enabled": true,
+            "roaming_enabled": true,
+            "last_modified": "2024-09-22T01:16:40Z",
+            "auc_id": 15,
+            "roaming_rule_list": null,
+            "default_apn": 1,
+            "subscribed_rau_tau_timer": 300,
+            "apn_list": "1,2",
+            "serving_mme": null,
+            "msisdn": "10015",
+            "serving_mme_timestamp": null,
+            "subscriber_id": 15,
+            "ue_ambr_dl": 0,
+            "serving_mme_realm": null,
+            "ue_ambr_ul": 0
+        }'
+            curl -X 'PUT' \
+        "$BASE_URL/subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "imsi": "001010000010016", 
+            "nam": 0,   
+            "serving_mme_peer": null,
+            "enabled": true,
+            "roaming_enabled": true,
+            "last_modified": "2024-09-22T01:16:40Z",
+            "auc_id": 16,
+            "roaming_rule_list": null,
+            "default_apn": 1,
+            "subscribed_rau_tau_timer": 300,
+            "apn_list": "1,2",
+            "serving_mme": null,
+            "msisdn": "10016",
+            "serving_mme_timestamp": null,
+            "subscriber_id": 16,
+            "ue_ambr_dl": 0,
+            "serving_mme_realm": null,
+            "ue_ambr_ul": 0
+        }'
+            curl -X 'PUT' \
+        "$BASE_URL/subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "imsi": "001010000010017", 
+            "nam": 0,   
+            "serving_mme_peer": null,
+            "enabled": true,
+            "roaming_enabled": true,
+            "last_modified": "2024-09-22T01:16:40Z",
+            "auc_id": 17,
+            "roaming_rule_list": null,
+            "default_apn": 1,
+            "subscribed_rau_tau_timer": 300,
+            "apn_list": "1,2",
+            "serving_mme": null,
+            "msisdn": "10017",
+            "serving_mme_timestamp": null,
+            "subscriber_id": 17,
+            "ue_ambr_dl": 0,
+            "serving_mme_realm": null,
+            "ue_ambr_ul": 0
+        }'
+            curl -X 'PUT' \
+        "$BASE_URL/subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "imsi": "001010000010018", 
+            "nam": 0,   
+            "serving_mme_peer": null,
+            "enabled": true,
+            "roaming_enabled": true,
+            "last_modified": "2024-09-22T01:16:40Z",
+            "auc_id": 18,
+            "roaming_rule_list": null,
+            "default_apn": 1,
+            "subscribed_rau_tau_timer": 300,
+            "apn_list": "1,2",
+            "serving_mme": null,
+            "msisdn": "10018",
+            "serving_mme_timestamp": null,
+            "subscriber_id": 18,
+            "ue_ambr_dl": 0,
+            "serving_mme_realm": null,
+            "ue_ambr_ul": 0
+        }'
+            curl -X 'PUT' \
+        "$BASE_URL/subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "imsi": "001010000010019", 
+            "nam": 0,   
+            "serving_mme_peer": null,
+            "enabled": true,
+            "roaming_enabled": true,
+            "last_modified": "2024-09-22T01:16:40Z",
+            "auc_id": 19,
+            "roaming_rule_list": null,
+            "default_apn": 1,
+            "subscribed_rau_tau_timer": 300,
+            "apn_list": "1,2",
+            "serving_mme": null,
+            "msisdn": "10019",
+            "serving_mme_timestamp": null,
+            "subscriber_id": 19,
             "ue_ambr_dl": 0,
             "serving_mme_realm": null,
             "ue_ambr_ul": 0
@@ -1154,6 +1676,222 @@ function pyhss_configuration() {
             "last_modified": "2024-10-22T01:19:26Z",
             "imsi": "001010000010010"
         }'
+        curl -X 'PUT' \
+        "$BASE_URL/ims_subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "ifc_path": "default_ifc.xml",   
+            "sh_profile": "string",
+            "pcscf": null, 
+            "scscf": "sip:scscf.ims.mnc001.mcc001.3gppnetwork.org:6060",
+            "pcscf_realm": null,
+            "scscf_timestamp": "2024-10-02 16:46:14",
+            "pcscf_active_session": null,
+            "scscf_realm": "ims.mnc001.mcc001.3gppnetwork.org",
+            "ims_subscriber_id": 11,
+            "pcscf_timestamp": null,
+            "scscf_peer": "scscf.ims.mnc001.mcc001.3gppnetwork.org;hss.ims.mnc001.mcc001.3gppnetwork.org",
+            "msisdn": "10011",
+            "pcscf_peer": null,
+            "sh_template_path": null,
+            "msisdn_list": "[10011]",
+            "xcap_profile": null,
+            "last_modified": "2024-10-22T01:19:26Z",
+            "imsi": "001010000010011"
+        }'
+        curl -X 'PUT' \
+        "$BASE_URL/ims_subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "ifc_path": "default_ifc.xml",   
+            "sh_profile": "string",
+            "pcscf": null, 
+            "scscf": "sip:scscf.ims.mnc001.mcc001.3gppnetwork.org:6060",
+            "pcscf_realm": null,
+            "scscf_timestamp": "2024-10-02 16:46:14",
+            "pcscf_active_session": null,
+            "scscf_realm": "ims.mnc001.mcc001.3gppnetwork.org",
+            "ims_subscriber_id": 12,
+            "pcscf_timestamp": null,
+            "scscf_peer": "scscf.ims.mnc001.mcc001.3gppnetwork.org;hss.ims.mnc001.mcc001.3gppnetwork.org",
+            "msisdn": "10012",
+            "pcscf_peer": null,
+            "sh_template_path": null,
+            "msisdn_list": "[10012]",
+            "xcap_profile": null,
+            "last_modified": "2024-10-22T01:19:26Z",
+            "imsi": "001010000010012"
+        }'
+        curl -X 'PUT' \
+        "$BASE_URL/ims_subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "ifc_path": "default_ifc.xml",   
+            "sh_profile": "string",
+            "pcscf": null, 
+            "scscf": "sip:scscf.ims.mnc001.mcc001.3gppnetwork.org:6060",
+            "pcscf_realm": null,
+            "scscf_timestamp": "2024-10-02 16:46:14",
+            "pcscf_active_session": null,
+            "scscf_realm": "ims.mnc001.mcc001.3gppnetwork.org",
+            "ims_subscriber_id": 13,
+            "pcscf_timestamp": null,
+            "scscf_peer": "scscf.ims.mnc001.mcc001.3gppnetwork.org;hss.ims.mnc001.mcc001.3gppnetwork.org",
+            "msisdn": "10013",
+            "pcscf_peer": null,
+            "sh_template_path": null,
+            "msisdn_list": "[10013]",
+            "xcap_profile": null,
+            "last_modified": "2024-10-22T01:19:26Z",
+            "imsi": "001010000010013"
+        }'
+        curl -X 'PUT' \
+        "$BASE_URL/ims_subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "ifc_path": "default_ifc.xml",   
+            "sh_profile": "string",
+            "pcscf": null, 
+            "scscf": "sip:scscf.ims.mnc001.mcc001.3gppnetwork.org:6060",
+            "pcscf_realm": null,
+            "scscf_timestamp": "2024-10-02 16:46:14",
+            "pcscf_active_session": null,
+            "scscf_realm": "ims.mnc001.mcc001.3gppnetwork.org",
+            "ims_subscriber_id": 14,
+            "pcscf_timestamp": null,
+            "scscf_peer": "scscf.ims.mnc001.mcc001.3gppnetwork.org;hss.ims.mnc001.mcc001.3gppnetwork.org",
+            "msisdn": "10014",
+            "pcscf_peer": null,
+            "sh_template_path": null,
+            "msisdn_list": "[10014]",
+            "xcap_profile": null,
+            "last_modified": "2024-10-22T01:19:26Z",
+            "imsi": "001010000010014"
+        }'
+        curl -X 'PUT' \
+        "$BASE_URL/ims_subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "ifc_path": "default_ifc.xml",   
+            "sh_profile": "string",
+            "pcscf": null, 
+            "scscf": "sip:scscf.ims.mnc001.mcc001.3gppnetwork.org:6060",
+            "pcscf_realm": null,
+            "scscf_timestamp": "2024-10-02 16:46:14",
+            "pcscf_active_session": null,
+            "scscf_realm": "ims.mnc001.mcc001.3gppnetwork.org",
+            "ims_subscriber_id": 15,
+            "pcscf_timestamp": null,
+            "scscf_peer": "scscf.ims.mnc001.mcc001.3gppnetwork.org;hss.ims.mnc001.mcc001.3gppnetwork.org",
+            "msisdn": "10015",
+            "pcscf_peer": null,
+            "sh_template_path": null,
+            "msisdn_list": "[10015]",
+            "xcap_profile": null,
+            "last_modified": "2024-10-22T01:19:26Z",
+            "imsi": "001010000010015"
+        }'
+        curl -X 'PUT' \
+        "$BASE_URL/ims_subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "ifc_path": "default_ifc.xml",   
+            "sh_profile": "string",
+            "pcscf": null, 
+            "scscf": "sip:scscf.ims.mnc001.mcc001.3gppnetwork.org:6060",
+            "pcscf_realm": null,
+            "scscf_timestamp": "2024-10-02 16:46:14",
+            "pcscf_active_session": null,
+            "scscf_realm": "ims.mnc001.mcc001.3gppnetwork.org",
+            "ims_subscriber_id": 16,
+            "pcscf_timestamp": null,
+            "scscf_peer": "scscf.ims.mnc001.mcc001.3gppnetwork.org;hss.ims.mnc001.mcc001.3gppnetwork.org",
+            "msisdn": "10016",
+            "pcscf_peer": null,
+            "sh_template_path": null,
+            "msisdn_list": "[10016]",
+            "xcap_profile": null,
+            "last_modified": "2024-10-22T01:19:26Z",
+            "imsi": "001010000010016"
+        }'
+        curl -X 'PUT' \
+        "$BASE_URL/ims_subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "ifc_path": "default_ifc.xml",   
+            "sh_profile": "string",
+            "pcscf": null, 
+            "scscf": "sip:scscf.ims.mnc001.mcc001.3gppnetwork.org:6060",
+            "pcscf_realm": null,
+            "scscf_timestamp": "2024-10-02 16:46:14",
+            "pcscf_active_session": null,
+            "scscf_realm": "ims.mnc001.mcc001.3gppnetwork.org",
+            "ims_subscriber_id": 17,
+            "pcscf_timestamp": null,
+            "scscf_peer": "scscf.ims.mnc001.mcc001.3gppnetwork.org;hss.ims.mnc001.mcc001.3gppnetwork.org",
+            "msisdn": "10017",
+            "pcscf_peer": null,
+            "sh_template_path": null,
+            "msisdn_list": "[10017]",
+            "xcap_profile": null,
+            "last_modified": "2024-10-22T01:19:26Z",
+            "imsi": "001010000010017"
+        }'
+        curl -X 'PUT' \
+        "$BASE_URL/ims_subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "ifc_path": "default_ifc.xml",   
+            "sh_profile": "string",
+            "pcscf": null, 
+            "scscf": "sip:scscf.ims.mnc001.mcc001.3gppnetwork.org:6060",
+            "pcscf_realm": null,
+            "scscf_timestamp": "2024-10-02 16:46:14",
+            "pcscf_active_session": null,
+            "scscf_realm": "ims.mnc001.mcc001.3gppnetwork.org",
+            "ims_subscriber_id": 18,
+            "pcscf_timestamp": null,
+            "scscf_peer": "scscf.ims.mnc001.mcc001.3gppnetwork.org;hss.ims.mnc001.mcc001.3gppnetwork.org",
+            "msisdn": "10018",
+            "pcscf_peer": null,
+            "sh_template_path": null,
+            "msisdn_list": "[10018]",
+            "xcap_profile": null,
+            "last_modified": "2024-10-22T01:19:26Z",
+            "imsi": "001010000010018"
+        }'
+        curl -X 'PUT' \
+        "$BASE_URL/ims_subscriber/" \
+        -H 'accept: application/json' \
+        -H 'Content-Type: application/json' \
+        -d '{
+            "ifc_path": "default_ifc.xml",   
+            "sh_profile": "string",
+            "pcscf": null, 
+            "scscf": "sip:scscf.ims.mnc001.mcc001.3gppnetwork.org:6060",
+            "pcscf_realm": null,
+            "scscf_timestamp": "2024-10-02 16:46:14",
+            "pcscf_active_session": null,
+            "scscf_realm": "ims.mnc001.mcc001.3gppnetwork.org",
+            "ims_subscriber_id": 19,
+            "pcscf_timestamp": null,
+            "scscf_peer": "scscf.ims.mnc001.mcc001.3gppnetwork.org;hss.ims.mnc001.mcc001.3gppnetwork.org",
+            "msisdn": "10019",
+            "pcscf_peer": null,
+            "sh_template_path": null,
+            "msisdn_list": "[10019]",
+            "xcap_profile": null,
+            "last_modified": "2024-10-22T01:19:26Z",
+            "imsi": "001010000010019"
+        }'
 }
 function print_help() {
   echo_info "This script compiles OpenAirInterface Software, and can iinstall dependencies
@@ -1161,7 +1899,7 @@ Options:
 -I 
    Install prerequisites
 -volte
-   Install and build images/containers for volte
+   Install and build images/containers ffor volte
 -uhd 
    Install UHD for usrp at host
 -hss   Install user at the hss container
