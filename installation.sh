@@ -48,7 +48,7 @@ function install_dependencies() {
     # Add user to Docker group
     sudo groupadd docker || true  # Avoid error if the group already exists
     sudo usermod -aG docker "$USER"
-
+    sudo newgrp docker
     # Display Docker versions
     docker --version
     docker compose --version
@@ -104,7 +104,7 @@ function uhd_installation_host() {
     echo "Installing UHD dependencies and software..."
     sudo apt-get update -y
     sudo apt-get install -y libuhd-dev uhd-host
-    sudo sudo /usr/lib/uhd/utils/uhd_images_downloader.py
+    # sudo sudo /usr/lib/uhd/utils/uhd_images_downloader.py
     echo "Checking if UHD is correctly installed and functioning..."
     if sudo uhd_find_devices; then
         echo "UHD installation successful and device check passed."
@@ -1919,6 +1919,8 @@ Options:
    Test if usrp is connected to the computer
 -aoi
    Install all software and configure subscribers
+-deploying
+   Deploy the 4G private celular network
 -h
    Print this help"
 }
@@ -1976,7 +1978,7 @@ function main() {
        		update_env_file
                 install_dependencies
 		build_images
-		uhd_installation_host
+		# uhd_installation_host
 		deploying
 		hss_configuration
 		osmohlr_configuration
@@ -1994,6 +1996,9 @@ function main() {
        -volte | --voltecuatrog)
             	build_images
 		deploying
+            exit 1;;
+        -deploying | --deploying)
+                deploying
             exit 1;;
 	-osmohlr | --osmohlr)
 		osmohlr_configuration
