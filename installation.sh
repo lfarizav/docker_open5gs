@@ -47,10 +47,11 @@ function install_dependencies() {
 
     # Add user to Docker group
     sudo groupadd docker || true  # Avoid error if the group already exists
-    sudo usermod -aG docker "$USER"
-    sudo newgrp docker
+    sudo usermod -aG docker "$USER" || true
+    sudo newgrp docker || true
+    sudo chmod 777 /var/run/docker.sock
     # Display Docker versions
-    docker --version
+    docker --version  || true
     docker compose --version
     sudo apt install net-tools plocate traceroute git python3 python3-pip wireshark xterm -y
     sudo usermod -aG wireshark $(whoami)
@@ -1895,12 +1896,12 @@ function pyhss_configuration() {
 }
 function print_help() {
   echo_info "This script compiles OpenAirInterface Software, and can iinstall dependencies
-Options: 
--I 
+Options
+-I
    Install prerequisites
 -volte
    Install and build images/containers ffor volte
--uhd 
+-uhd
    Install UHD for usrp at host
 -hss   Install user at the hss container
 -osmohlr
@@ -1950,26 +1951,8 @@ function main() {
     case "$1" in
        -I | --installation)
 		# Install the latest version of docker
-		# Set up docker apt repository
-		# Add Docker's official GPG key:
-		sudo apt-get update
-		sudo apt-get install ca-certificates curl
-		sudo install -m 0755 -d /etc/apt/keyrings
-		sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
-		sudo chmod a+r /etc/apt/keyrings/docker.asc
-		# Add the repository to Apt sources:
-		echo \
-  		"deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
-  		$(. /etc/os-release && echo "$VERSION_CODENAME") stable" | \
-		sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-		sudo apt-get update
-		# Install docker using apt
-		sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker compose-plugin docker compose git -y
-		sudo groupadd docker
-		sudo usermod -aG docker $USER
-		newgrp docker
-		docker --version
-		docker compose --version
+		update_env_file
+		install_dependencies
             exit 1;;
        -uhd | --uhd)
 		sudo apt-get install libuhd-dev uhd-host
