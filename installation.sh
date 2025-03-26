@@ -1918,7 +1918,7 @@ Options
    Show all IMS subscribers at pyhss
 -testusrp
    Test if usrp is connected to the computer
--aoi
+-aio
    Install all software and configure subscribers
 -deploying
    Deploy the 4G private celular network
