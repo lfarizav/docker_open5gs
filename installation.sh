@@ -1899,6 +1899,8 @@ function print_help() {
 Options
 -I
    Install prerequisites
+-updateIP
+   Update host IP into .env hidden file
 -volte
    Install and build images/containers ffor volte
 -uhd
@@ -1980,13 +1982,16 @@ function main() {
             	build_images
 		deploying
             exit 1;;
-        -deploying | --deploying)
+       -updateIP | --updateIP)
+            	update_env_file
+            exit 1;; 
+       -deploying | --deploying)
                 deploying
             exit 1;;
-	-osmohlr | --osmohlr)
+       -osmohlr | --osmohlr)
 		osmohlr_configuration
 		exit 1;;
-        -showAPNspyhss | --showAPNspyhss)
+       -showAPNspyhss | --showAPNspyhss)
                 docker exec -it pyhss curl -X 'GET' \
   'http://192.168.23.219:8080/apn/list?page=0&page_size=200' \
   -H 'accept: application/json'

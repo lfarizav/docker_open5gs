@@ -551,7 +551,7 @@ services:
       default:
         ipv4_address: ${PROMTAIL_IP}  
   portainer:
-    image: portainer/portainer-ce:2.21.4
+    image: portainer/portainer-ce
     hostname: portainer
     container_name: portainer
     restart: always
