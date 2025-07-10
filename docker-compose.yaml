@@ -486,9 +486,9 @@ services:
       - /etc/timezone:/etc/timezone:ro
       - /etc/localtime:/etc/localtime:ro
     expose:
-      - "9090/tcp"
+      - "9095/tcp"
     ports:
-      - "9090:9090/tcp"
+      - "9095:9095/tcp"
     networks:
       default:
         ipv4_address: ${METRICS_IP}
@@ -505,9 +505,9 @@ services:
       - /etc/timezone:/etc/timezone:ro
       - /etc/localtime:/etc/localtime:ro
     expose:
-      - "3000/tcp"
+      - "3011/tcp"
     ports:
-      - "3000:3000/tcp"
+      - "3011:3011/tcp"
     environment:
       - GF_SECURITY_ADMIN_USER=admin
       - GF_SECURITY_ADMIN_PASSWORD=admin
@@ -562,11 +562,38 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock:ro
       - ./portainer-data:/data
     ports:
-      - 8000:8000
+      - 8001:8001
       - 9443:9443
     networks:
       default:
         ipv4_address: ${PORTAINER_IP}
+  srsenb:
+    image: docker_srslte
+    hostname: srsenb
+    restart: unless-stopped
+    container_name: srsenb
+    stdin_open: true
+    tty: true
+    privileged: true
+    devices:
+      - "/dev/bus"
+    volumes:
+      - /dev/serial:/dev/serial:ro
+      - /dev/bus/usb:/dev/bus/usb:ro
+      - ./srslte:/mnt/srslte
+      - /etc/timezone:/etc/timezone:ro
+      - /etc/localtime:/etc/localtime:ro
+    env_file:
+      - .env
+    environment:
+      - COMPONENT_NAME=enb
+    expose:
+      - "36412/sctp"
+      - "2152/udp"
+      - "9091/tcp"
+    networks:
+      default:
+        ipv4_address: ${SRS_ENB_IP}
 networks:
   default:
     ipam:
