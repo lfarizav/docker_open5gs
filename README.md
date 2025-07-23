@@ -15,7 +15,7 @@
 # Author
 **Luis Felipe Ariza Vesga** 
 emails: lfarizav@gmail.com, lfarizav@unal.edu.co
-# Forket from
+# Project created from the following repositories
 https://github.com/herlesupreeth/docker_open5gs and https://github.com/MAlexVR/docker_open5gs
 # Descripción
 This code allow to deploy a 4G private cellular networks with data, SMS, IPTV and VoLTE services
