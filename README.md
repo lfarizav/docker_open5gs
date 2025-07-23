@@ -7,7 +7,7 @@
       </a>
     </td>
     <td style="border-collapse: collapse; border: none; vertical-align: center;">
-      <b><font size = "5">Docker compose to Helm migration to deploy a 4G private cellular netwwork</font></b>
+      <b><font size = "5">Docker compose to deploy a 4G private cellular netwwork</font></b>
     </td>
   </tr>
 </table>
