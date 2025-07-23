@@ -80,11 +80,6 @@ docker compose -f docker-compose.yaml -d
 
 ## Network and deployment configuration
 
-The setup can be mainly deployed in two ways:
-
-1. Single host setup where eNB/gNB and (EPC+IMS)/5GC are deployed on a single host machine
-2. Multi host setup where eNB/gNB is deployed on a separate host machine than (EPC+IMS)/5GC
-
 ### Host setup configuration
 Edit only the following parameters in **.env** as per your setup
 
