@@ -71,7 +71,7 @@ cd ../ueransim
 docker build --no-cache --force-rm -t docker_ueransim .
 ```
 
-#### Build docker images for additional components
+#### Build docker images for additional components and deployed them
 
 ```
 cd ..
@@ -82,7 +82,7 @@ sudo sysctl -w net.ipv4.ip_forward=1
 sudo cpupower frequency-set -g performance
 
 # For 4G deployment only
-docker compose -f docker-compose.yaml build
+docker compose -f docker-compose.yaml -d
 ```
 
 ## Network and deployment configuration
