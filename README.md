@@ -100,7 +100,7 @@ docker compose -f docker-compose.yaml up
 ```
 ## Provisioning of SIM information
 ```
-Manualy
+Manually
 ```
 ### Provisioning of IMSI and MSISDN with OsmoHLR as follows:
 
