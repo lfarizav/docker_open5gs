@@ -31,13 +31,11 @@ Quite contrary to the name of the repository, this repository contains docker fi
 
 Docker host machine
 
-- Ubuntu 20.04 / 22.04 / 24.04
+- Ubuntu 22.04 / 24.04
 
 Over-The-Air setups: 
 
-- srsRAN (eNB/gNB) using Ettus USRP B210
-- srsRAN eNB using LimeSDR Mini v1.3
-- srsRAN eNB using LimeSDR-USB
+- srsRAN (eNB/gNB) using Ettus USRP B200 mini-i
 
 RF emulated setups:
 
@@ -45,9 +43,7 @@ RF emulated setups:
 
 ## Building docker images
 
-* Mandatory requirements:
-	* [docker-ce](https://docs.docker.com/install/linux/docker-ce/ubuntu) - Version 22.0.5 or above
-	* [docker compose](https://docs.docker.com/compose) - Version 2.14 or above
+* Mandatory requirements: latest docker version
 
 
 #### Clone repository and build base docker image of open5gs, kamailio, srsRAN_4G, srsRAN_Project, ueransim
@@ -86,10 +82,7 @@ sudo sysctl -w net.ipv4.ip_forward=1
 sudo cpupower frequency-set -g performance
 
 # For 4G deployment only
-docker compose -f 4g-volte-deploy.yaml build
-
-# For 5G deployment only
-docker compose -f sa-deploy.yaml build
+docker compose -f docker-compose.yaml build
 ```
 
 ## Network and deployment configuration
