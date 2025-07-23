@@ -605,3 +605,7 @@ volumes:
   grafana-data: {}
   loki-data: {}
   promtail-data: {}
+  docker_wowza_data_conf: {}
+  docker_wowza_data_applications: {}
+  docker_wowza_data_logs: {}
+  docker_wowza_data_content: {}
