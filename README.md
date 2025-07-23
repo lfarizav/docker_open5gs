@@ -1,4 +1,23 @@
-# docker_open5gs
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border-collapse: collapse; border: none;">
+    <td style="border-collapse: collapse; border: none;">
+      <a href="http://www.openairinterface.org/">
+         <img src="https://gitlab.eurecom.fr/uploads/-/system/user/avatar/716/avatar.png?width=800" alt="" border=3 height=50 width=50>
+         </img>
+      </a>
+    </td>
+    <td style="border-collapse: collapse; border: none; vertical-align: center;">
+      <b><font size = "5">Docker compose to Helm migration to deploy a 4G private cellular netwwork</font></b>
+    </td>
+  </tr>
+</table>
+
+# Author
+**Luis Felipe Ariza Vesga** 
+emails: lfarizav@gmail.com, lfarizav@unal.edu.co
+# Descripción
+This code allow to deploy a 4G private cellular networks with data, SMS, IPTV and VoLTE services
+# docker_open5gs software
 Quite contrary to the name of the repository, this repository contains docker files to deploy an Over-The-Air (OTA) network using following projects:
 - Core Network (4G/5G) - open5gs - https://github.com/open5gs/open5gs
 - IMS (Only 4G supported i.e. VoLTE) - kamailio
