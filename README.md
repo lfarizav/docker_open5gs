@@ -100,7 +100,7 @@ docker compose -f docker-compose.yaml up
 ```
 ## Provisioning of SIM information
 ```
-private script
+Manualy
 ```
 ### Provisioning of IMSI and MSISDN with OsmoHLR as follows:
 
@@ -133,5 +133,5 @@ OsmoHLR# show subcribers all
 ### Provisioning of SIM information in pyHSS is as follows:
 
 ```
-private script
+Manually
 ```
