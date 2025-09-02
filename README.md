@@ -22,14 +22,14 @@ This code allow to deploy a 4G private cellular networks with data, SMS, IPTV an
 
 ## Table of Contents
 
-- [Descripción](#foreword)
-- [docker_open5gs software](#clone-the-following-repositories)
-- [Tested Setup](#install-requirements)
-- [Building docker images](#install-requirements)
-  - [Clone repository and build base docker image of open5gs, kamailio, srsRAN_4G, srsRAN_Project, ueransim](#when-using-ubuntu)
-  - [Build docker images for additional components and deployed them](#prerequisites)
-- [Network and deployment configuration](#installation)
-  - [Host setup configuration](#prerequisites)
+- [Descripción](#description)
+- [docker_open5gs software](#docker-software)
+- [Tested Setup](#tested-setup)
+- [Building docker images](#building)
+  - [Clone repository and build base docker image of open5gs, kamailio, srsRAN_4G, srsRAN_Project, ueransim](#clonning-repository)
+  - [Build docker images for additional components and deployed them](#building-repository)
+- [Network and deployment configuration](#network-deployment-configuration)
+  - [Host setup configuration](#host-setup-configuration)
 ---
 
 # docker_open5gs software
