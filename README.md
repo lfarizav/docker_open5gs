@@ -19,6 +19,19 @@ emails: lfarizav@gmail.com, lfarizav@unal.edu.co
 https://github.com/herlesupreeth/docker_open5gs and https://github.com/MAlexVR/docker_open5gs
 # Descripción
 This code allow to deploy a 4G private cellular networks with data, SMS, IPTV and VoLTE services
+
+## Table of Contents
+
+- [Descripción](#foreword)
+- [docker_open5gs software](#clone-the-following-repositories)
+- [Tested Setup](#install-requirements)
+- [Building docker images](#install-requirements)
+  - [Clone repository and build base docker image of open5gs, kamailio, srsRAN_4G, srsRAN_Project, ueransim](#when-using-ubuntu)
+  - [Build docker images for additional components and deployed them](#prerequisites)
+- [Network and deployment configuration](#installation)
+  - [Host setup configuration](#prerequisites)
+---
+
 # docker_open5gs software
 Quite contrary to the name of the repository, this repository contains docker files to deploy an Over-The-Air (OTA) network using following projects:
 - Core Network (4G/5G) - open5gs - https://github.com/open5gs/open5gs
