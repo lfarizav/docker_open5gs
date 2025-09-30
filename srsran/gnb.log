@@ -1,0 +1,5 @@
+2025-09-26T23:29:47.091372 [GNB     ] [I] Built in Release mode using commit 11c9bbabb6 on branch HEAD
+2025-09-26T23:29:47.936852 [GNB     ] [W] DRM KMS polling is enabled, which may hinder performance. You can disable it using the "srsran_performance" script
+2025-09-26T23:30:31.448432 [FAPI    ] [W] [   226.0] Sector#0: Could not acquire downlink processor for slot 226.0
+2025-09-26T23:30:31.448438 [FAPI    ] [W] [   226.0] Sector#0: Real-time failure in FAPI: UL processor is busy for slot 226.0.
+(END)

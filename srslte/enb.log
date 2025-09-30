@@ -1,0 +1,16 @@
+2025-09-30T17:03:30.187923 [ENB    ] [I] Using binary /usr/local/bin/srsenb with arguments: 
+2025-09-30T17:03:30.227847 [ENB    ] [I] Built in Release mode using commit ec29b0c1f on branch HEAD.
+2025-09-30T17:03:30.271601 [COMN   ] [D] [    0] Successfully bound to address 172.22.0.22:2152
+2025-09-30T17:03:30.271607 [COMN   ] [D] [    0] RxSockets: socket fd=6 has been registered.
+2025-09-30T17:03:30.271631 [COMN   ] [D] [    0] Opened SCTP socket=7
+2025-09-30T17:03:30.271636 [COMN   ] [D] [    0] Setting RTO_INFO options on SCTP socket. Association 0, Initial RTO 3000, Minimum RTO 1000, Maximum RTO 6000
+2025-09-30T17:03:30.271638 [COMN   ] [D] [    0] Setting SCTP_INITMSG options on SCTP socket. Max attempts 3, Max init attempts timeout 5000
+2025-09-30T17:03:30.271645 [COMN   ] [D] [    0] Successfully bound to address 172.22.0.22:0
+2025-09-30T17:03:30.273371 [COMN   ] [D] [    0] RxSockets: socket fd=7 has been registered.
+2025-09-30T17:03:31.770676 [RF     ] [E] Error opening RF device
+2025-09-30T17:03:31.770676 [RF     ] [E] Error opening RF device 0
+2025-09-30T17:03:31.774746 [COMN   ] [D] [    0] RxSockets: Closing rx socket handler thread
+2025-09-30T17:03:31.774773 [COMN   ] [D] [    0] RxSockets: closed.
+2025-09-30T17:03:31.774827 [COMN   ] [D] [    0] Socket=7 was closed.
+2025-09-30T17:03:31.776308 [COMN   ] [D] [    0] Socket=-1 could not be closed.
+2025-09-30T17:03:31.776668 [COMN   ] [D] [    0] Socket=-1 could not be closed.

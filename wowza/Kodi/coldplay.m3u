@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="001" tvg-id="Colplay1" tvg-logo="" group-title="Colplay1", CHANNEL 1vod - Coldplay
+rtsp://172.22.0.50:1935/vod/coldplay1.mp4
+
+#EXTINF:-1 tvg-name="002" tvg-id="Colplay2" tvg-logo="" group-title="Colplay2", CHANNEL 2vod - Coldplay
+rtsp://172.22.0.50:1935/vod/coldplay2.mp4
+
+#EXTINF:-1 tvg-name="003" tvg-id="Colplay3" tvg-logo="" group-title="Colplay3", CHANNEL 3vod - Coldplay
+rtsp://172.22.0.50:1935/vod/coldplay3.mp4
+
+#EXTINF:-1 tvg-name="004" tvg-id="Colplay4" tvg-logo="" group-title="Colplay4", CHANNEL 4vod - Coldplay
+rtsp://172.22.0.50:1935/vod/coldplay4.mp4
+#EXTM3U
+#EXTINF:-1 tvg-name="001" tvg-id="Colplay1" tvg-logo="" group-title="Colplay1", CHANNEL 1life - Coldplay
+http://172.22.0.50:1935/live/colplay1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="002" tvg-id="Colplay2" tvg-logo="" group-title="Colplay2", CHANNEL 2life - Coldplay
+http://172.22.0.50:1935/live/colplay2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="003" tvg-id="Colplay3" tvg-logo="" group-title="Colplay3", CHANNEL 3life - Coldplay
+http://172.22.0.50:1935/live/colplay3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="004" tvg-id="Colplay4" tvg-logo="" group-title="Colplay4", CHANNEL 4life - Coldplay
+http://172.22.0.50:1935/live/colplay4.stream/playlist.m3u8

@@ -1,0 +1,2 @@
+2025-09-26T18:18:33.205757-05:00 notice: SIGTERM received - shutting down
+2025-09-26T18:18:33.215398-05:00 error: Supervisor: {local,gr_counter_sup}. Context: child_terminated. Reason: killed. Offender: id=gr_lager_default_tracer_counters,pid=<0.114.0>.

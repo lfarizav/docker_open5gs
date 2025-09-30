@@ -1,0 +1,27 @@
+server:
+  http_listen_port: 9080
+  grpc_listen_port: 0
+
+positions:
+  filename: /tmp/positions.yml
+
+clients:
+  - url: http://loki:3100/loki/api/v1/push
+
+scrape_configs:
+# Logs open5gs
+- job_name: open5gs
+  static_configs:
+  - targets:
+      - localhost
+    labels:
+      job: open5gs
+      __path__: /mnt/log/*log
+ # Logs for srsenb
+- job_name: srsenb
+  static_configs:
+  - targets:
+      - localhost
+    labels:
+      job: srsenb
+      __path__: /mnt/srslte/*.{csv,json}
